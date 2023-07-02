@@ -1,10 +1,14 @@
 # AdGuardHome_rules
 AdGuardHome自用黑白名单规则  
-黑名单https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt  
-白名单https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt  
+黑名单  
+https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt  
+或https://ghproxy.com/https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt  
+白名单  
+https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt  
+或https://ghproxy.com/https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt  
 
-基于以下规则漏网之鱼  
   
+基于以下规则漏网之鱼  
 黑名单：   
 AdAway  
 https://adaway.org/hosts.txt  

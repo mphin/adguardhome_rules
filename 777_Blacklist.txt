@@ -1,11 +1,15 @@
-||qisaoba.com
+# 内容：黑名单列表补充
+# 更新：2023年7月3日01:59:49
+# 数量：5条
 
-#小游戏广告
+# 小游戏广告
 ||fun.360.cn
 
-#保健品广告
+# 保健品广告
 ||yikanghuitang.cn
 ||naaifood.cn
 
-#色情广告
+# 色情广告
 ||180zhengkkl.com
+
+||qisaoba.com

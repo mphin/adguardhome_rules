@@ -1,25 +1,25 @@
 g.live.com
 s.click.taobao.com
-ipassport.ele.me
-wl.jd.com^$important
-www.duote.com
-ms.bdimg.com
+饿了么护照网
+wl.jd.com^$重要
+多特网
+女士.bdimg.com
 fexclick.baidu.com
 mac.bmcx.com
 click.mz.simba.taobao.com
-wan.baidu.com
+万百度网
 h5.mse.360.cn
 s1.qhres2.com
 
 #UC短视频
 vps.uc.cn
-huichuan-mc.sm.cn
-huichuan.sm.cn
+汇川-MC.sm.cn
+汇川网
 
 #UC直播
-ulive-sc.uc.cn
-ulive-interact.uc.cn
-v.uc.cn
+ulive-sc.cn
+ulive互动网
+UC网
 
 #东方财富网
 mobappconfig.securities.eastmoney.com
@@ -27,8 +27,12 @@ gbres.dfcfw.com
 np-newsimg.dfcfw.com
 
 #360浏览器
-se.360.cn
+360安全网
 
 #搜狐
-track.sohu.com
-yule.sohu.com
+搜狐赛道
+搜狐娱乐网
+
+#xhamsterlive
+trk.emt.stripchat.com
+pxl.stripchat.com

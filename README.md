@@ -2,10 +2,10 @@
 AdGuardHome自用黑白名单规则  
 黑名单  
 https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt  
-或https://ghproxy.com/https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt  
+或https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Blacklist.txt  
 白名单  
 https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt  
-或https://ghproxy.com/https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt  
+或https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_whitelist.txt  
 
   
 基于以下规则漏网之鱼  

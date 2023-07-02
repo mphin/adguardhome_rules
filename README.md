@@ -2,6 +2,7 @@
 AdGuardHome自用黑白名单规则
 
 基于以下规则漏网之鱼  
+  
 黑名单：   
 AdAway  
 https://adaway.org/hosts.txt  
@@ -19,6 +20,7 @@ https://easylist-downloads.adblockplus.org/easylist.txt
 https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt  
 广告拦截者基于chinalist+easylist  
 http://sub.adtchrome.com/adt-chinalist-easylist.txt  
+  
 白名单：  
 anti白名单  
 https://fastly.jsdelivr.net/gh/privacy-protection-tools/dead-horse@master/anti-ad-white-list.txt  

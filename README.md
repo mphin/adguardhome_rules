@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt
 或https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_whitelist.txt  
 
   
-基于以下规则漏网之鱼  
+添加使用以下规则进行补充  
 黑名单：   
 AdAway  
 https://adaway.org/hosts.txt  

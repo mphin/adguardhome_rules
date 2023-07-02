@@ -1,5 +1,7 @@
 # AdGuardHome_rules
 AdGuardHome自用黑白名单规则
+黑名单https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt  
+白名单https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt  
 
 基于以下规则漏网之鱼  
   

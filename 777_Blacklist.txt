@@ -9,6 +9,7 @@
 ||yikanghuitang.cn
 ||naaifood.cn
 
+# 色情广告
 ||180zhengkkl.com
 ||nxnzad.com
 ||nmcnbgp.cn
@@ -16,5 +17,8 @@
 ||xutmnla.cn
 ||awiudbyqbpo.com
 ||aefdcxoi.com
+
+# 恶意跳转
+||jlpckj.com
 
 ||qisaoba.com

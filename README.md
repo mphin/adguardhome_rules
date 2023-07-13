@@ -24,8 +24,7 @@ EasyList去除国际
 https://easylist-downloads.adblockplus.org/easylist.txt  
 乘风广告  
 https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt  
-广告拦截者基于chinalist+easylist  
-http://sub.adtchrome.com/adt-chinalist-easylist.txt  
+
 白名单：  
 anti白名单  
 https://fastly.jsdelivr.net/gh/privacy-protection-tools/dead-horse@master/anti-ad-white-list.txt  

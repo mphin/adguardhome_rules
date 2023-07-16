@@ -24,7 +24,7 @@ se.360.cn
 track.sohu.com
 yule.sohu.com
 
-# 手赚
+# 试玩
 uri6.com
 
 g.live.com

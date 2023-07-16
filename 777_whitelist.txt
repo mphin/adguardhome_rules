@@ -30,8 +30,8 @@ uri6.com
 g.live.com
 s.click.taobao.com
 ipassport.ele.me
-wl.jd.com^$important
-www.duote.com
+wl.jd.com
+duote.com
 ms.bdimg.com
 fexclick.baidu.com
 mac.bmcx.com

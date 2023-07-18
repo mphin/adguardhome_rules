@@ -1,11 +1,12 @@
-# AdGuardHome_rules
-AdGuardHome自用黑白名单规则  
+# 介绍
+AdGuardHome自用黑白名单规则
+# 地址
 黑名单  
-https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt  
-或https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Blacklist.txt  
+直链`https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt`  
+CDN`https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Blacklist.txt`
 白名单  
-https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt  
-或https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_whitelist.txt  
+直链`https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt`  
+CDN`或https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_whitelist.txt`
 
   
 添加使用以下规则进行补充  

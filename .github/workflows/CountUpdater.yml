@@ -13,9 +13,7 @@ jobs:
         run: sudo timedatectl set-timezone Asia/Shanghai
       
       - name: Check out code
-        uses: actions/checkout@v2
-        with:
-          node-version: 16
+        uses: actions/checkout@v3
 
       - name: Get last commit files
         id: last_commit

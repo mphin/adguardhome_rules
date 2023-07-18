@@ -1,5 +1,5 @@
 # 介绍
-AdGuardHome自用黑白名单规则
+AdGuardHome自用黑白名单补充规则
 # 地址
 黑名单  
 直链:`https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt`  

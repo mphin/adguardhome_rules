@@ -2,16 +2,11 @@
 # 更新：2023年07月21日22:58:34
 # 数量：31条
 
-# 小游戏广告
-||fun.360.cn
 
-# 保健品广告
+||fun.360.cn
 ||yikanghuitang.cn
 ||naaifood.cn
-
-# 恶意跳转
 ||jlpckj.com
-
 ||180zhengkkl.com
 ||nxnzad.com
 ||nmcnbgp.cn
@@ -35,8 +30,9 @@
 ||87318.xyz
 ||87367.xyz
 ||87336.xyz
-
 ||qisaoba.com
 ||dshasdzxc.com
 ||tanju.vip
 ||youquantao.com
+||18479.pw
+||xygj.cc

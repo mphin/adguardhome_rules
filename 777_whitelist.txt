@@ -34,6 +34,9 @@ click.linksynergy.com
 # 天气预报
 e.weather.com.cn
 
+# 工具
+similarweb.com
+
 g.live.com
 s.click.taobao.com
 ipassport.ele.me

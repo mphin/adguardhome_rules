@@ -1,7 +1,7 @@
 # 介绍
 AdGuardHome自用黑白名单补充规则  
-* 补充数量：216条
-* 最近更新：2023年07月23日15:54:18
+* 补充数量：61条
+* 最近更新：2023年07月23日17:06:46
 # 黑名单地址
 * 直链:  
 `https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt`  

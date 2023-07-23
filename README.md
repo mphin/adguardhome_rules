@@ -1,6 +1,6 @@
 # 介绍
 AdGuardHome自用黑白名单补充规则  
-本仓库创建于2023年7月2日
+
 # 更新时间：2023年7月18日15:16:18
 # 黑名单地址
 * 直链:  
@@ -33,3 +33,7 @@ AdGuardHome自用黑白名单补充规则
 白名单：  
 * anti白名单  
 `https://fastly.jsdelivr.net/gh/privacy-protection-tools/dead-horse@master/anti-ad-white-list.txt`  
+
+
+        
+本仓库创建于2023年7月2日

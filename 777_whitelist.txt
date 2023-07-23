@@ -17,8 +17,9 @@ mobappconfig.securities.eastmoney.com
 gbres.dfcfw.com
 np-newsimg.dfcfw.com
 
-# 360浏览器
+# 360
 se.360.cn
+h5.mse.360.cn
 
 # 搜狐
 track.sohu.com
@@ -30,6 +31,8 @@ uri6.com
 # 微软
 click.linksynergy.com
 
+# 天气预报
+e.weather.com.cn
 
 g.live.com
 s.click.taobao.com
@@ -41,6 +44,5 @@ fexclick.baidu.com
 mac.bmcx.com
 click.mz.simba.taobao.com
 wan.baidu.com
-h5.mse.360.cn
 s1.qhres2.com
 outreach.abetterinternet.org

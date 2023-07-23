@@ -27,6 +27,10 @@ yule.sohu.com
 # 试玩
 uri6.com
 
+# 微软
+click.linksynergy.com
+
+
 g.live.com
 s.click.taobao.com
 ipassport.ele.me

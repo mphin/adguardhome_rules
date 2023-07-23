@@ -35,7 +35,7 @@ click.linksynergy.com
 e.weather.com.cn
 
 # 工具
-similarweb.com
+www.similarweb.com
 
 g.live.com
 s.click.taobao.com

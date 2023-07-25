@@ -12,40 +12,49 @@ ulive-sc.uc.cn
 ulive-interact.uc.cn
 v.uc.cn
 
-# 东方财富网
-mobappconfig.securities.eastmoney.com
-gbres.dfcfw.com
-np-newsimg.dfcfw.com
-
 # 360
 se.360.cn
 h5.mse.360.cn
-
-# 搜狐
-track.sohu.com
-yule.sohu.com
-
-# 试玩
-uri6.com
+s1.qhres2.com
 
 # 微软
 click.linksynergy.com
 
-# 天气预报
-e.weather.com.cn
+# 百度
+fc3tn.baidu.com
+fc5tn.baidu.com
+fexclick.baidu.com
+wan.baidu.com
+ms.bdimg.com
+
+# 淘宝
+click.mz.simba.taobao.com
+s.click.taobao.com
+
+# 京东
+wl.jd.com
+
+# 饿了么
+ipassport.ele.me
 
 # 工具
 www.similarweb.com
-
-g.live.com
-s.click.taobao.com
-ipassport.ele.me
-wl.jd.com
-duote.com
-ms.bdimg.com
-fexclick.baidu.com
+# ＞ 下载
+www.duote.com
+# ＞ 查询
 mac.bmcx.com
-click.mz.simba.taobao.com
-wan.baidu.com
-s1.qhres2.com
-outreach.abetterinternet.org
+# ＞ 试玩平台
+uri6.com
+# ＞ 天气预报
+e.weather.com.cn
+
+# 资讯新闻
+# ＞ 搜狐
+track.sohu.com
+yule.sohu.com
+# ＞ MASN中国
+g.live.com
+# ＞ 东方财富网
+mobappconfig.securities.eastmoney.com
+gbres.dfcfw.com
+np-newsimg.dfcfw.com

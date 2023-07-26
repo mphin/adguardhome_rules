@@ -20,7 +20,9 @@ AdGuardHome自用黑白名单补充规则
 * AdAway  
 `https://adaway.org/hosts.txt`  
 * 乘风视频广告  
-`https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt`  
+`https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt`
+* 乘风广告  
+`https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt`  
 * 开屏和APP广告规则  
 `https://fastly.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt`  
 * anti-AD  
@@ -29,8 +31,6 @@ AdGuardHome自用黑白名单补充规则
 `https://easylist-downloads.adblockplus.org/easylistchina.txt`  
 * EasyList去除国际  
 `https://easylist-downloads.adblockplus.org/easylist.txt`  
-* 乘风广告  
-`https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt`  
 
 白名单：  
 * anti白名单  

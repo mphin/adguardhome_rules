@@ -23,7 +23,7 @@ AdGuardHome自用黑白名单补充规则
 `https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt`
 * 乘风广告  
 `https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt`  
-* 开屏和APP广告规则  
+* adgk手机去广告规则  
 `https://fastly.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt`  
 * anti-AD  
 `https://anti-ad.net/easylist.txt`  

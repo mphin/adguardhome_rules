@@ -2,8 +2,8 @@
 AdGuardHome自用黑白名单补充规则  
 * 黑名单为补充下面几个规则的漏网之鱼
 * 白名单定义为不能影响功能正常使用为原则
-* 补充数量：69条
-* 最近更新：2023年07月27日20:44:23
+* 补充数量：70条
+* 最近更新：2023年07月27日21:02:02
 # 黑名单地址
 * 直链:  
 `https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt`  

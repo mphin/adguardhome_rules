@@ -33,7 +33,7 @@ jobs:
             current_date=$(TZ=Asia/Shanghai date '+%Y%m%d%H%M')
 
             # 统计非空行和非注释行的数量
-            count=$(grep -v -e '^$' -e '^#' $file | wc -l)
+            count=$(grep -v -e '^$' -e '^！' $file | wc -l)
             count_with_unit="${count}"
 
             # 更新文件内容
@@ -45,7 +45,7 @@ jobs:
         run: |
           # 获取变量
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
-          count_1=$(grep -v -e '^$' -e '^#' *.txt | wc -l)
+          count_1=$(grep -v -e '^$' -e '^！' *.txt | wc -l)
 
           # 更新README.md内容
           sed -i "s/最近更新：.*/最近更新：$new_date/" README.md

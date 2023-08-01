@@ -37,8 +37,8 @@ jobs:
             count_with_unit="${count}"
 
             # 更新文件内容
-            sed -i "s/^! Version：.*/! Version：$current_date/" $file
-            sed -i "s/^! Total lines：.*/! Total lines：$count_with_unit/" $file
+            sed -i "s/^! Version:.*/! Version:$current_date/" $file
+            sed -i "s/^! Total lines:.*/! Total lines:$count_with_unit/" $file
           done
 
       - name: Update README

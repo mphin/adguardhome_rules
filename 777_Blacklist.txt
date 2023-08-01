@@ -1,7 +1,7 @@
-! Title:黑名单补充
-! Version:202308011957
-! Homepage:https://github.com/mphin/AdGuardHome_rules
-! Total lines:50
+! Title: 黑名单补充
+! Version: 202308011957
+! Homepage: https://github.com/mphin/AdGuardHome_rules
+! Total lines: 50
 ||qiehdybvjm.com^
 ||dshtyubnjgvmb.com^
 ||monroe4825edcs.xyz^

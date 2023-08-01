@@ -3,20 +3,20 @@
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
 ! Total lines: 30
 ! 资讯新闻
-! ＞ 搜狐
+! > 搜狐
 track.sohu.com
 yule.sohu.com
-! ＞ MASN中国
+! > MASN中国
 g.live.com
-! ＞ 东方财富网
+! > 东方财富网
 mobappconfig.securities.eastmoney.com
 gbres.dfcfw.com
 np-newsimg.dfcfw.com
-! ＞ UC短视频
+! > UC短视频
 vps.uc.cn
 huichuan-mc.sm.cn
 huichuan.sm.cn
-! ＞ UC直播
+! > UC直播
 ulive-sc.uc.cn
 ulive-interact.uc.cn
 v.uc.cn
@@ -48,11 +48,11 @@ ipassport.ele.me
 
 ! 工具
 www.similarweb.com
-! ＞ 下载
+! > 下载
 www.duote.com
-! ＞ 查询
+! > 查询
 mac.bmcx.com
-! ＞ 试玩平台
+! > 试玩平台
 uri6.com
-! ＞ 天气预报
+! > 天气预报
 e.weather.com.cn

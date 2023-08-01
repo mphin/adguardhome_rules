@@ -30,15 +30,15 @@ jobs:
           # 更新文件内容
           for file in $FILES; do
             # 获取当前时间
-            current_date=$(TZ=Asia/Shanghai date '+%Y年%m月%d日%H:%M:%S')
+            current_date=$(TZ=Asia/Shanghai date '+%Y%m%d%H%M')
 
             # 统计非空行和非注释行的数量
             count=$(grep -v -e '^$' -e '^#' $file | wc -l)
-            count_with_unit="${count}条"
+            count_with_unit="${count}"
 
             # 更新文件内容
-            sed -i "s/^# 更新：.*/# 更新：$current_date/" $file
-            sed -i "s/^# 数量：.*/# 数量：$count_with_unit/" $file
+            sed -i "s/^！ Version：.*/！ Version：$current_date/" $file
+            sed -i "s/^！ Total lines：.*/！ Total lines：$count_with_unit/" $file
           done
 
       - name: Update README

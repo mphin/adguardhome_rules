@@ -1,13 +1,13 @@
-！ Title：黑名单补充
-！ Version：202308011929
-！ Homepage：
+! Title：黑名单补充
+! Version：202308011929
+! Homepage：
 https://github.com/mphin/AdGuardHome_rules
-！ Total lines：57
-！ 跳转
+! Total lines：57
+! 跳转
 ||qiehdybvjm.com^
 ||dshtyubnjgvmb.com^
 ||monroe4825edcs.xyz^
-！ 色情广告
+! 色情广告
 ||7566dh1.com^
 ||7566dh9.com^
 ||xckj0623.com^

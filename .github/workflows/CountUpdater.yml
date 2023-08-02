@@ -37,8 +37,8 @@ jobs:
             count_with_unit="${count}"
 
             # 修改文件中的时间和数量
-            sed -i "s/^! Version:.*/! Version:$current_date/" $file
-            sed -i "s/^! Total lines:.*/! Total lines:$count_with_unit/" $file
+            sed -i "s/^! Version: .*/! Version: $current_date/" $file
+            sed -i "s/^! Total lines: .*/! Total lines: $count_with_unit/" $file
             # 将文件中的规则正序
             temp_file=$(mktemp)
             domain_list=""
@@ -66,8 +66,8 @@ jobs:
           count_1=$(grep -v -e '^$' -e '^!' -e '^#' *.txt | wc -l)
 
           # 更新README.md内容
-          sed -i "s/最近更新：.*/最近更新：$new_date/" README.md
-          sed -i "s/补充数量：.*/补充数量：$count_1条/" README.md
+          sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
+          sed -i "s/补充数量: .*/补充数量: $count_1条/" README.md
 
       - name: Commit and push changes
         run: |

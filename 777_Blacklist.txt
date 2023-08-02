@@ -1,7 +1,7 @@
 ! Title: 黑名单补充
-! Version: 202308021928
+! Version: 202308021941
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 51
+! Total lines: 52
 ||180zhengkkl.com^
 ||18479.pw^
 ||26v8aqv56.cc^
@@ -36,6 +36,7 @@
 ||mv8l4bj34.cc^
 ||myehm.xyz^
 ||naaifood.cn^
+||newton5194sctf.xyz^
 ||nht4628c1.cc^
 ||nmcnbgp.cn^
 ||ns01.fyi^
@@ -52,6 +53,5 @@
 ||yikanghuitang.cn^
 ||youquantao.com^
 ||zhjw2d2he.cc^
-||newton5194sctf.xyz^
 ! 360浏览器空白页广告
 ||fun.360.cn^

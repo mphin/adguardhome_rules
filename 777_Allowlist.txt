@@ -50,7 +50,7 @@ ipassport.ele.me
 ! 工具
 www.similarweb.com
 ! > 下载
-duote.com
+duote.com^
 ! > 查询
 mac.bmcx.com
 ! > 试玩平台

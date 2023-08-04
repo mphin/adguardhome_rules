@@ -1,5 +1,5 @@
 ! Title: 白名单补充
-! Version: 202308012036
+! Version: 202308041001
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
 ! Total lines: 30
 ! 资讯新闻
@@ -9,22 +9,22 @@ yule.sohu.com
 ! > MASN中国
 g.live.com
 ! > 东方财富网
-mobappconfig.securities.eastmoney.com
 gbres.dfcfw.com
+mobappconfig.securities.eastmoney.com
 np-newsimg.dfcfw.com
 ! > UC短视频
-vps.uc.cn
 huichuan-mc.sm.cn
 huichuan.sm.cn
+vps.uc.cn
 ! > UC直播
-ulive-sc.uc.cn
 ulive-interact.uc.cn
+ulive-sc.uc.cn
 v.uc.cn
 
 ! 360
-se.360.cn
 h5.mse.360.cn
 s1.qhres2.com
+se.360.cn
 
 ! 微软
 click.linksynergy.com
@@ -33,8 +33,8 @@ click.linksynergy.com
 fc3tn.baidu.com
 fc5tn.baidu.com
 fexclick.baidu.com
-wan.baidu.com
 ms.bdimg.com
+wan.baidu.com
 
 ! 淘宝
 click.mz.simba.taobao.com

@@ -48,7 +48,7 @@ wl.jd.com
 ipassport.ele.me
 
 ! 工具
-www.similarweb.com
+similarweb.com^
 ! > 下载
 duote.com^
 ! > 查询

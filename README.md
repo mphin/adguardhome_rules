@@ -11,9 +11,9 @@ AdGuardHome自用黑白名单补充规则
 `https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Blacklist.txt`  
 # 白名单地址 
 * 直链:  
-`https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_whitelist.txt`  
+`https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Allowlist.txt`  
 * CDN:  
-`https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_whitelist.txt`  
+`https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Allowlist.txt`  
 
 # 使用以下规则进行补充  
 黑名单：   

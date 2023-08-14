@@ -1,7 +1,7 @@
 ! Title: 黑名单补充
-! Version: 202308121502
+! Version: 202308141731
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 63
+! Total lines: 64
 ||180zhengkkl.com^
 ||18479.pw^
 ||26v8aqv56.cc^
@@ -17,12 +17,12 @@
 ||87318.xyz^
 ||87336.xyz^
 ||87367.xyz^
+||9831tc.com^
 ||aefdcxoi.com^
 ||awiudbyqbpo.com^
 ||bc2n2q6kt.cc^
 ||bk23de3dgd.cc^
 ||czd367.com^
-||9831tc.com^
 ||dsawdsc.com^
 ||dshasdzxc.com^
 ||dshtyubnjgvmb.com^

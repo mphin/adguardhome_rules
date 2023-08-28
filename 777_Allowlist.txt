@@ -3,16 +3,22 @@
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
 ! Total lines: 31
 
-! 资讯新闻
+! 资讯
 ! > 搜狐
 track.sohu.com
 yule.sohu.com
+api.tv.sohu.com
 ! > MASN中国
 g.live.com
 ! > 东方财富网
 gbres.dfcfw.com
 mobappconfig.securities.eastmoney.com
 np-newsimg.dfcfw.com
+
+! 米读小说
+apiwz.midukanshu.com
+
+! 媒体
 ! > UC短视频
 huichuan-mc.sm.cn
 huichuan.sm.cn
@@ -21,31 +27,49 @@ vps.uc.cn
 ulive-interact.uc.cn
 ulive-sc.uc.cn
 v.uc.cn
+! > 字节跳动
+haohuo.snssdk.com
+! > 爱奇艺
+msg.video.qiyi.com
+! > bilibili
+data.bilibili.com
+! ＞ 短剧
+1sapp.com
 
+! 小米
+resolver.msg.xiaomi.net
+! 腾讯
+l.qq.com
+yunjiasu.com
 ! 360
 h5.mse.360.cn
 s1.qhres2.com
 se.360.cn
-
 ! 微软
 click.linksynergy.com
-
 ! 百度
 fc3tn.baidu.com
 fc5tn.baidu.com
+gsp0.baidu.com
 fexclick.baidu.com
 ms.bdimg.com
 wan.baidu.com
-
-! 淘宝
+! 阿里巴巴
+tanx.com
+! > 淘宝
 click.mz.simba.taobao.com
 s.click.taobao.com
-
 ! 京东
 wl.jd.com
-
+orbit.jd.com
 ! 饿了么
 ipassport.ele.me
+! 网易
+api.iplay.163.com
+
+! 游戏
+! > 蜗牛
+woniu.com
 
 ! 工具
 similarweb.com^
@@ -59,3 +83,11 @@ uri6.com
 e.weather.com.cn
 ! > PE工具
 laomaotao.net^
+! > 域名注册
+ename.net
+bluehost.com
+hosting24.com
+
+! 其他
+gvt2.com
+livere.com

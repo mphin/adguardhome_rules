@@ -14,6 +14,10 @@ g.live.com
 gbres.dfcfw.com
 mobappconfig.securities.eastmoney.com
 np-newsimg.dfcfw.com
+! > 中关村在线
+direct.wap.zol.com.cn
+! > 新浪
+mix.sina.com.cn
 
 ! 米读小说
 apiwz.midukanshu.com
@@ -31,11 +35,18 @@ v.uc.cn
 haohuo.snssdk.com
 ! > 爱奇艺
 msg.video.qiyi.com
-! > bilibili
+subscription.iqiyi.com
+! > 哔哩哔哩
 data.bilibili.com
+! ＞ 酷狗音乐
+mobilelog.kugou.com
 ! ＞ 短剧
 1sapp.com
+! ＞ 优米电视
+umiwi.com
 
+! 苹果
+stats.gc.apple.com
 ! 小米
 resolver.msg.xiaomi.net
 ! 腾讯
@@ -62,14 +73,18 @@ s.click.taobao.com
 ! 京东
 orbit.jd.com
 wl.jd.com
-! 饿了么
-ipassport.ele.me
 ! 网易
 api.iplay.163.com
 
 ! 游戏
 ! > 蜗牛
 woniu.com
+! > 千橡
+imop.com
+! > 3975游戏
+3975.com
+! > 模拟城市
+live.simcitybuildit.com
 
 ! 工具
 similarweb.com^
@@ -88,6 +103,14 @@ bluehost.com
 ename.net
 hosting24.com
 
+! 出行生活
+! > 饿了么
+ipassport.ele.me
+! > 建设银行
+adv.ccb.com
+
 ! 其他
 gvt2.com
+jwpcdn.com
 livere.com
+tagtic.cn

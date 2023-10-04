@@ -38,12 +38,15 @@ msg.video.qiyi.com
 subscription.iqiyi.com
 ! > 哔哩哔哩
 data.bilibili.com
+live-trace.bilibili.com
 ! ＞ 酷狗音乐
 mobilelog.kugou.com
 ! ＞ 短剧
 1sapp.com
 ! ＞ 优米电视
 umiwi.com
+! ＞ 腾讯视频
+soup.v.qq.com
 
 ! 苹果
 stats.gc.apple.com
@@ -64,6 +67,7 @@ fc5tn.baidu.com
 fexclick.baidu.com
 gsp0.baidu.com
 ms.bdimg.com
+issuecdn.baidupcs.com
 wan.baidu.com
 ! 阿里巴巴
 tanx.com
@@ -85,6 +89,8 @@ imop.com
 3975.com
 ! > 模拟城市
 live.simcitybuildit.com
+! > 巨人网络
+ztgame.com
 
 ! 工具
 similarweb.com^

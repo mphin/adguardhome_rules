@@ -18,6 +18,8 @@ np-newsimg.dfcfw.com
 direct.wap.zol.com.cn
 ! > 新浪
 mix.sina.com.cn
+! > 东方头条
+dftoutiao.com
 
 ! 米读小说
 apiwz.midukanshu.com
@@ -71,6 +73,7 @@ ms.bdimg.com
 wan.baidu.com
 ! 阿里巴巴
 tanx.com
+dcms.1688.com
 ! > 淘宝
 click.mz.simba.taobao.com
 s.click.taobao.com

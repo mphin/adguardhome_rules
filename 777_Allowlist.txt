@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202310041459
+! Version: 202310061559
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 66
+! Total lines: 68
 
 ! 资讯
 ! > 搜狐
@@ -72,8 +72,8 @@ issuecdn.baidupcs.com
 ms.bdimg.com
 wan.baidu.com
 ! 阿里巴巴
-tanx.com
 dcms.1688.com
+tanx.com
 ! > 淘宝
 click.mz.simba.taobao.com
 s.click.taobao.com

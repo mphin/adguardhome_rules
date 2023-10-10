@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202310061559
+! Version: 202310101741
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 68
+! Total lines: 73
 
 ! 资讯
 ! > 搜狐
@@ -121,11 +121,11 @@ adv.ccb.com
 ecard.shenzhentong.com
 
 ! 其他
-gvt2.com
-jwpcdn.com
-jiathis.com
-livere.com
 da.mmarket.com
+gvt2.com
+jiathis.com
+jwpcdn.com
+livere.com
 tagtic.cn
 ! > 同盾
 fp.tongdun.net

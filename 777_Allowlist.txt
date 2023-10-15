@@ -59,6 +59,7 @@ yunjiasu.com
 ! ＞ 微信
 szlong.weixin.qq.com
 ! 360
+jspassport.ssl.qhimg.com
 h5.mse.360.cn
 qhres2.com
 se.360.cn
@@ -68,6 +69,7 @@ click.linksynergy.com
 fc3tn.baidu.com
 fc5tn.baidu.com
 fexclick.baidu.com
+boxer.baidu.com
 gsp0.baidu.com
 issuecdn.baidupcs.com
 ms.bdimg.com
@@ -79,6 +81,7 @@ zconfig.alibabausercontent.com
 ! > 淘宝
 click.mz.simba.taobao.com
 s.click.taobao.com
+err.taobao.com
 ! 京东
 orbit.jd.com
 wl.jd.com
@@ -112,6 +115,7 @@ laomaotao.net^
 ! > 域名注册
 bluehost.com
 ename.net
+ename.com.cn
 hosting24.com
 
 ! 出行生活
@@ -121,11 +125,22 @@ ipassport.ele.me
 adv.ccb.com
 ! > 深圳通
 ecard.shenzhentong.com
+! > 百姓网
+baixing.com
+! >  新疆网上税务局
+xj-n-tax.gov.cn
 
 ! 其他
 bitsumactivationserver.com
+lc-cn-n1-shared.com
 da.mmarket.com
 gvt2.com
+zazhipu.com
+w8.com.cn
+x6img.com
+xifuquan.com
+clarins.com.cn
+auditude.com
 jiathis.com
 jwpcdn.com
 livere.com

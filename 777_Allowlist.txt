@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202310121554
+! Version: 202310160529
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 75
+! Total lines: 88
 
 ! 资讯
 ! > 搜狐
@@ -59,17 +59,17 @@ yunjiasu.com
 ! ＞ 微信
 szlong.weixin.qq.com
 ! 360
-jspassport.ssl.qhimg.com
 h5.mse.360.cn
+jspassport.ssl.qhimg.com
 qhres2.com
 se.360.cn
 ! 微软
 click.linksynergy.com
 ! 百度
+boxer.baidu.com
 fc3tn.baidu.com
 fc5tn.baidu.com
 fexclick.baidu.com
-boxer.baidu.com
 gsp0.baidu.com
 issuecdn.baidupcs.com
 ms.bdimg.com
@@ -80,8 +80,8 @@ tanx.com
 zconfig.alibabausercontent.com
 ! > 淘宝
 click.mz.simba.taobao.com
-s.click.taobao.com
 err.taobao.com
+s.click.taobao.com
 ! 京东
 orbit.jd.com
 wl.jd.com
@@ -114,8 +114,8 @@ e.weather.com.cn
 laomaotao.net^
 ! > 域名注册
 bluehost.com
-ename.net
 ename.com.cn
+ename.net
 hosting24.com
 
 ! 出行生活
@@ -131,20 +131,20 @@ baixing.com
 xj-n-tax.gov.cn
 
 ! 其他
+auditude.com
 bitsumactivationserver.com
-lc-cn-n1-shared.com
+clarins.com.cn
 da.mmarket.com
 gvt2.com
-zazhipu.com
+jiathis.com
+jwpcdn.com
+lc-cn-n1-shared.com
+livere.com
+tagtic.cn
 w8.com.cn
 x6img.com
 xifuquan.com
-clarins.com.cn
-auditude.com
-jiathis.com
-jwpcdn.com
-livere.com
-tagtic.cn
+zazhipu.com
 ! > 同盾
 fp.tongdun.net
 fraudmetrix.cn

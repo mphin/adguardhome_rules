@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202310160529
+! Version: 202310161512
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 88
+! Total lines: 107
 
 ! 资讯
 ! > 搜狐
@@ -35,8 +35,8 @@ v.uc.cn
 ! > 字节跳动
 haohuo.snssdk.com
 ! > 斗鱼
-msg.douyu.com
 gift.douyucdn.cn
+msg.douyu.com
 ! > 爱奇艺
 act.vip.iqiyi.com
 msg.video.qiyi.com
@@ -75,21 +75,21 @@ click.linksynergy.com
 boxer.baidu.com
 fc3tn.baidu.com
 fc5tn.baidu.com
-sofire.baidu.com
 fexclick.baidu.com
 gsp0.baidu.com
 issuecdn.baidupcs.com
 ms.bdimg.com
+sofire.baidu.com
 wan.baidu.com
 ! 阿里巴巴
 dcms.1688.com
 tanx.com
 zconfig.alibabausercontent.com
 ! > 淘宝
-click.mz.simba.taobao.com
-err.taobao.com
-eco.taobao.com
 amdc.m.taobao.com
+click.mz.simba.taobao.com
+eco.taobao.com
+err.taobao.com
 s.click.taobao.com
 ! 京东
 orbit.jd.com
@@ -149,24 +149,24 @@ pepsico.com.cn
 
 ! 其他
 auditude.com
-profile.csdnimg.cn
-lc-cn-n1-shared.com
 bitsumactivationserver.com
+clarins.com.cn
 d1z2jf7jlzjs58.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
-clarins.com.cn
 da.mmarket.com
 gvt2.com
-wxapp.lvyadx.cn
-jiathis.com
-knet.cn
 hsforms.net
+jiathis.com
 jimdo.com
 jwpcdn.com
-wmflabs.org
+knet.cn
+lc-cn-n1-shared.com
 livere.com
+profile.csdnimg.cn
 tagtic.cn
 w8.com.cn
+wmflabs.org
+wxapp.lvyadx.cn
 x6img.com
 xifuquan.com
 zazhipu.com

@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202310161512
+! Version: 202310161837
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 107
+! Total lines: 114
 
 ! 资讯
 ! > 搜狐
@@ -83,8 +83,8 @@ sofire.baidu.com
 wan.baidu.com
 ! 阿里巴巴
 dcms.1688.com
-tanx.com
 gm.mmstat.com
+tanx.com
 wgo.mmstat.com
 zconfig.alibabausercontent.com
 ! > 淘宝
@@ -116,8 +116,8 @@ ztgame.com
 log-upload.mihoyo.com
 
 ! APP工具
-similarweb.com^
 ereg.wip3.adobe.com
+similarweb.com^
 ! > UC浏览器
 ucweb.com
 ! > 下载
@@ -152,23 +152,23 @@ pepsico.com.cn
 
 ! 其他
 auditude.com
-duiba.com.cn
 bitsumactivationserver.com
+c.evidon.com
 clarins.com.cn
 d1z2jf7jlzjs58.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 da.mmarket.com
+duiba.com.cn
 gvt2.com
 hsforms.net
 jiathis.com
 jimdo.com
-c.evidon.com
 jwpcdn.com
 knet.cn
-s0.2mdn.net
 lc-cn-n1-shared.com
 livere.com
 profile.csdnimg.cn
+s0.2mdn.net
 tagtic.cn
 w8.com.cn
 widget.gleamjs.io

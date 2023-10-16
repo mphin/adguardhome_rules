@@ -34,7 +34,11 @@ ulive-sc.uc.cn
 v.uc.cn
 ! > 字节跳动
 haohuo.snssdk.com
+! > 斗鱼
+msg.douyu.com
+gift.douyucdn.cn
 ! > 爱奇艺
+act.vip.iqiyi.com
 msg.video.qiyi.com
 subscription.iqiyi.com
 ! > 哔哩哔哩
@@ -56,6 +60,8 @@ resolver.msg.xiaomi.net
 ! 腾讯
 l.qq.com
 yunjiasu.com
+! ＞ 应用宝
+sqdd.myapp.com
 ! ＞ 微信
 szlong.weixin.qq.com
 ! 360
@@ -69,6 +75,7 @@ click.linksynergy.com
 boxer.baidu.com
 fc3tn.baidu.com
 fc5tn.baidu.com
+sofire.baidu.com
 fexclick.baidu.com
 gsp0.baidu.com
 issuecdn.baidupcs.com
@@ -81,12 +88,16 @@ zconfig.alibabausercontent.com
 ! > 淘宝
 click.mz.simba.taobao.com
 err.taobao.com
+eco.taobao.com
+amdc.m.taobao.com
 s.click.taobao.com
 ! 京东
 orbit.jd.com
 wl.jd.com
 ! 网易
 api.iplay.163.com
+! 谷歌
+csi.gstatic.com
 
 ! 游戏
 ! > 蜗牛
@@ -99,9 +110,13 @@ imop.com
 live.simcitybuildit.com
 ! > 巨人网络
 ztgame.com
+! > 原神
+log-upload.mihoyo.com
 
-! 工具
+! APP工具
 similarweb.com^
+! > UC浏览器
+ucweb.com
 ! > 下载
 duote.com^
 ! > 查询
@@ -129,16 +144,26 @@ ecard.shenzhentong.com
 baixing.com
 ! >  新疆网上税务局
 xj-n-tax.gov.cn
+! >  百事公司大中华区
+pepsico.com.cn
 
 ! 其他
 auditude.com
+profile.csdnimg.cn
+lc-cn-n1-shared.com
 bitsumactivationserver.com
+d1z2jf7jlzjs58.cloudfront.net
+d2na2p72vtqyok.cloudfront.net
 clarins.com.cn
 da.mmarket.com
 gvt2.com
+wxapp.lvyadx.cn
 jiathis.com
+knet.cn
+hsforms.net
+jimdo.com
 jwpcdn.com
-lc-cn-n1-shared.com
+wmflabs.org
 livere.com
 tagtic.cn
 w8.com.cn

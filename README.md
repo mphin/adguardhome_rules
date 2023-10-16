@@ -33,9 +33,7 @@ AdGuardHome自用黑白名单补充规则
 * EasyList去除国际  
 `https://easylist-downloads.adblockplus.org/easylist.txt`  
 
-白名单：  
-* anti白名单  
-`https://fastly.jsdelivr.net/gh/privacy-protection-tools/dead-horse@master/anti-ad-white-list.txt`  
+
 
 
         

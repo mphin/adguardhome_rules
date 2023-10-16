@@ -84,6 +84,8 @@ wan.baidu.com
 ! 阿里巴巴
 dcms.1688.com
 tanx.com
+gm.mmstat.com
+wgo.mmstat.com
 zconfig.alibabausercontent.com
 ! > 淘宝
 amdc.m.taobao.com
@@ -115,6 +117,7 @@ log-upload.mihoyo.com
 
 ! APP工具
 similarweb.com^
+ereg.wip3.adobe.com
 ! > UC浏览器
 ucweb.com
 ! > 下载
@@ -149,6 +152,7 @@ pepsico.com.cn
 
 ! 其他
 auditude.com
+duiba.com.cn
 bitsumactivationserver.com
 clarins.com.cn
 d1z2jf7jlzjs58.cloudfront.net
@@ -158,13 +162,16 @@ gvt2.com
 hsforms.net
 jiathis.com
 jimdo.com
+c.evidon.com
 jwpcdn.com
 knet.cn
+s0.2mdn.net
 lc-cn-n1-shared.com
 livere.com
 profile.csdnimg.cn
 tagtic.cn
 w8.com.cn
+widget.gleamjs.io
 wmflabs.org
 wxapp.lvyadx.cn
 x6img.com

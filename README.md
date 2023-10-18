@@ -16,7 +16,7 @@ AdGuardHome自用黑白名单补充规则
 * CDN:  
 `https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Allowlist.txt`  
 
-# 使用以下规则进行补充  
+# 使用以下主规则  
 黑名单：   
 * AdAway  
 `https://adaway.org/hosts.txt`  

@@ -1,23 +1,36 @@
 # 介绍
 AdGuardHome自用黑白名单补充规则  
-* 黑名单为补充下面几个规则的漏网之鱼
-* 白名单为不能影响常用网站的使用
+* 主规则anti-AD+自用黑白名单补充
 * 自用规则发现广告或误拦即添加！
 * 补充数量: 221条
 * 最近更新: 2023年10月17日06:21:42
-# 黑名单地址
-* 直链:  
-`https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt`  
-* CDN:  
-`https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Blacklist.txt`  
-# 白名单地址 
-* 直链:  
-`https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Allowlist.txt`  
-* CDN:  
-`https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Allowlist.txt`  
 
-# 使用以下主规则  
-黑名单：   
+# 使用anti-AD主规则     
+```
+https://anti-ad.net/easylist.txt
+```
+# 使用黑名单补充
+* 直链:  
+```
+https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt
+```
+* CDN:  
+```
+https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Blacklist.txt
+```
+# 使用白名单补充 
+* 直链:  
+```
+https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Allowlist.txt
+```
+* CDN:  
+```
+https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Allowlist.txt
+```  
+
+
+
+# 其他规则（可选）   
 * AdAway  
 `https://adaway.org/hosts.txt`  
 * 乘风视频广告  
@@ -26,8 +39,6 @@ AdGuardHome自用黑白名单补充规则
 `https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt`  
 * adgk手机去广告规则  
 `https://fastly.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt`  
-* anti-AD  
-`https://anti-ad.net/easylist.txt`  
 * EasyList针对国内的补充规则  
 `https://easylist-downloads.adblockplus.org/easylistchina.txt`  
 * EasyList去除国际  

@@ -1,5 +1,5 @@
 ! Title: 白名单补充
-! Version: 202310221112
+! Version: 202310221221
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
 ! Total lines: 114
 
@@ -44,13 +44,13 @@ subscription.iqiyi.com
 ! > 哔哩哔哩
 data.bilibili.com
 live-trace.bilibili.com
-! ＞ 酷狗音乐
+! > 酷狗音乐
 mobilelog.kugou.com
-! ＞ 短剧
+! > 短剧
 1sapp.com
-! ＞ 优米电视
+! > 优米电视
 umiwi.com
-! ＞ 腾讯视频
+! > 腾讯视频
 soup.v.qq.com
 
 ! 苹果
@@ -60,9 +60,9 @@ resolver.msg.xiaomi.net
 ! 腾讯
 l.qq.com
 yunjiasu.com
-! ＞ 应用宝
+! > 应用宝
 sqdd.myapp.com
-! ＞ 微信
+! > 微信
 szlong.weixin.qq.com
 ! 360
 h5.mse.360.cn

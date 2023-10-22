@@ -68,7 +68,7 @@ szlong.weixin.qq.com
 h5.mse.360.cn
 jspassport.ssl.qhimg.com
 qhres2.com
-se.360.cn
+se.360.cn^
 ! 微软
 click.linksynergy.com
 ! 百度

@@ -100,6 +100,7 @@ wl.jd.com
 api.iplay.163.com
 ! 谷歌
 csi.gstatic.com
+googleadservices.com
 
 ! 游戏
 ! > 蜗牛

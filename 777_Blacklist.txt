@@ -68,6 +68,7 @@
 ||ks8kjcefx5jc.me^
 ||lohdnyz.cn^
 ||lp011.click^
+||route-stats.d.meituan.net^
 ||maplocatesdksnapshot.d.meituan.net^
 ||mjhsghnwg.xyz^
 ||monroe4825edcs.xyz^

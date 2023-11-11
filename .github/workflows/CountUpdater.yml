@@ -40,7 +40,7 @@ jobs:
             sed -i "s/^! Version: .*/! Version: $current_date/" $file
             sed -i "s/^! Total lines: .*/! Total lines: $count_with_unit/" $file
             # 修正字符
-            sed -i 's/＞/>/g' $file
+            sed -i -e 's/＞/>/g' -e 's/！/!/g' $file
             # 将文件中的规则正序
             temp_file=$(mktemp)
             domain_list=""
@@ -76,5 +76,5 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git commit -m "Update quantity and date [skip ci]"
+          git commit -m "Update quantity and date"
           git push

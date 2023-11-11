@@ -82,7 +82,7 @@ ms.bdimg.com
 sofire.baidu.com
 wan.baidu.com
 ！ > 大牌餐饮
-sjh.baidu.com
+sjh.baidu.com^
 ! 阿里巴巴
 dcms.1688.com
 gm.mmstat.com

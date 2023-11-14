@@ -1,4 +1,4 @@
-name: CountUpdater
+name: List_updater
 on:
   push:
     branches:
@@ -12,8 +12,8 @@ jobs:
       - name: Set up time zone
         run: sudo timedatectl set-timezone Asia/Shanghai
       
-      - name: Check out code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@master
 
       - name: Get last commit files
         id: last_commit
@@ -27,21 +27,17 @@ jobs:
           URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
           FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^.*\\.txt$")) | .filename')
           
-          # 更新文件内容
+          echo 更新文件内容
           for file in $FILES; do
-            # 获取当前时间
             current_date=$(TZ=Asia/Shanghai date '+%Y%m%d%H%M')
-
-            # 统计非空行和非注释行的数量
             count=$(grep -v -e '^$' -e '^!' -e '^#' $file | wc -l)
             count_with_unit="${count}"
-
-            # 修改文件中的时间和数量
+            # 修改时间和数量
             sed -i "s/^! Version: .*/! Version: $current_date/" $file
             sed -i "s/^! Total lines: .*/! Total lines: $count_with_unit/" $file
             # 修正字符
             sed -i -e 's/＞/>/g' -e 's/！/!/g' $file
-            # 将文件中的规则正序
+            # 修改规则正序
             temp_file=$(mktemp)
             domain_list=""
             while IFS= read -r line; do
@@ -61,20 +57,20 @@ jobs:
             mv "$temp_file" "$file"
           done
 
-      - name: Update README
-        run: |
-          # 获取变量
+          echo 更新README.md
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
           count_1=$(grep -v -e '^$' -e '^!' -e '^#' *.txt | wc -l)
-
-          # 更新README.md内容
           sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
           sed -i "s/补充数量: .*/补充数量: $count_1条/" README.md
 
-      - name: Commit and push changes
+      - name: Commit And Push
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          git commit -m "Update quantity and date"
+          git config --global user.email "long632450362@qq.com" && git config --global user.name "Bot"
+          git add . && git commit -m "自动处理名单文件"
           git push
+
+      - name: Cleanup Workflow
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 1
+          keep_minimum_runs: 2

@@ -17,6 +17,8 @@ mobappconfig.securities.eastmoney.com^
 direct.wap.zol.com.cn^
 ! > 新浪
 mix.sina.com.cn^
+iask.com.cn^
+iask.cn^
 ! > 东方头条
 dftoutiao.com^
 

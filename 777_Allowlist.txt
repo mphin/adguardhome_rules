@@ -75,6 +75,7 @@ click.linksynergy.com
 boxer.baidu.com
 fc3tn.baidu.com
 fc5tn.baidu.com
+feed-image.baidu.com^
 fexclick.baidu.com
 gsp0.baidu.com
 issuecdn.baidupcs.com

@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202311162110
+! Version: 202311162356
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 117
+! Total lines: 119
 
 ! 资讯
 ! > 搜狐
@@ -16,9 +16,9 @@ mobappconfig.securities.eastmoney.com^
 ! > 中关村在线
 direct.wap.zol.com.cn^
 ! > 新浪
-mix.sina.com.cn^
-iask.com.cn^
 iask.cn^
+iask.com.cn^
+mix.sina.com.cn^
 ! > 东方头条
 dftoutiao.com^
 

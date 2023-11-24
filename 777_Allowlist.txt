@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202311162356
+! Version: 202311250150
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 119
+! Total lines: 120
 
 ! 资讯
 ! > 搜狐
@@ -128,7 +128,7 @@ similarweb.com^
 ucweb.com
 ! > 下载
 duote.com^
-! ＞ ＞迅雷
+! > >迅雷
 api-shoulei-ssl.xunlei.com
 ! > 查询
 mac.bmcx.com

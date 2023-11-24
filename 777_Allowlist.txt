@@ -128,6 +128,8 @@ similarweb.com^
 ucweb.com
 ! > 下载
 duote.com^
+! ＞ ＞迅雷
+api-shoulei-ssl.xunlei.com
 ! > 查询
 mac.bmcx.com
 ! > 试玩平台

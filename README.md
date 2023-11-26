@@ -5,7 +5,7 @@ AdGuardHome自用黑白名单补充规则
 * 补充数量: 229条
 * 最近更新: 2023年11月25日01:50:30
 
-## anti-AD主规则:
+## 主要规则:
 ```
 https://anti-ad.net/easylist.txt
 ```

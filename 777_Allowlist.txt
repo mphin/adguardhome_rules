@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202311250150
+! Version: 202312011815
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 120
+! Total lines: 121
 
 ! 资讯
 ! > 搜狐
@@ -177,6 +177,7 @@ lc-cn-n1-shared.com
 livere.com
 profile.csdnimg.cn
 s0.2mdn.net
+statsig.com^
 tagtic.cn
 w8.com.cn
 widget.gleamjs.io
@@ -185,7 +186,6 @@ wxapp.lvyadx.cn
 x6img.com
 xifuquan.com
 zazhipu.com
-statsig.com^
 ! > 同盾
 fp.tongdun.net
 fraudmetrix.cn

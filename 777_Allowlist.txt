@@ -185,6 +185,7 @@ wxapp.lvyadx.cn
 x6img.com
 xifuquan.com
 zazhipu.com
+statsig.com^
 ! > 同盾
 fp.tongdun.net
 fraudmetrix.cn

@@ -103,6 +103,8 @@ orbit.jd.com
 wl.jd.com
 ! 网易
 api.iplay.163.com^
+! ＞ 网易云音乐云贝签到
+ac.dun.163yun.com
 ! 谷歌
 csi.gstatic.com^
 googleadservices.com^

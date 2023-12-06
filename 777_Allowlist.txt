@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202312011815
+! Version: 202312061004
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 121
+! Total lines: 122
 
 ! 资讯
 ! > 搜狐
@@ -103,7 +103,7 @@ orbit.jd.com
 wl.jd.com
 ! 网易
 api.iplay.163.com^
-! ＞ 网易云音乐云贝签到
+! > 网易云音乐云贝签到
 ac.dun.163yun.com
 ! 谷歌
 csi.gstatic.com^

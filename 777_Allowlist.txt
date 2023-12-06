@@ -84,6 +84,8 @@ issuecdn.baidupcs.com
 ms.bdimg.com
 sofire.baidu.com
 wan.baidu.com
+! ＞ 百度手机输入法
+udpolimenew.baidu.com
 ! > 大牌餐饮
 sjh.baidu.com^
 ! 阿里巴巴

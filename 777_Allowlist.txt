@@ -136,6 +136,7 @@ duote.com^
 api-shoulei-ssl.xunlei.com
 ! > 查询
 mac.bmcx.com
+7x24s.com
 ! > 试玩平台
 uri6.com
 ! > 天气预报

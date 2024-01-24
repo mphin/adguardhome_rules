@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202401031659
+! Version: 202401240852
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 124
+! Total lines: 126
 
 ! 资讯
 ! > 搜狐
@@ -36,7 +36,7 @@ ulive-sc.uc.cn
 v.uc.cn
 ! > 字节跳动
 haohuo.snssdk.com
-！ ＞ 快手
+! > 快手
 api.kwaizt.com
 ! > 斗鱼
 gift.douyucdn.cn

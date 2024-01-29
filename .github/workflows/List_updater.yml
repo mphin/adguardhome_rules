@@ -66,7 +66,7 @@ jobs:
 
       - name: Commit And Push
         run: |
-          git config --global user.email "long632450362@qq.com" && git config --global user.name "Bot"
+          git config --global user.email "mphin@qq.com" && git config --global user.name "Bot"
           git add . && git commit -m "日常更新$(date +'%Y-%m-%d %H:%M')"
           git push
 

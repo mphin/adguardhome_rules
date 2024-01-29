@@ -11,11 +11,11 @@ https://anti-ad.net/easylist.txt
 ```
 ## 规则补充:
 - **黑名单**：
-  - https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Blacklist.txt
-  - https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Blacklist.txt
+  - https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt
+  - https://cdn.jsdelivr.net/gh/mphin/AdGuardHomeRules@main/Blacklist.txt
 - **白名单**：
-  - https://raw.githubusercontent.com/mphin/AdGuardHome_rules/main/777_Allowlist.txt
-  - https://cdn.jsdelivr.net/gh/mphin/AdGuardHome_rules@main/777_Allowlist.txt
+  - https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt
+  - https://cdn.jsdelivr.net/gh/mphin/AdGuardHomeRules@main/Allowlist.txt
 
 ## 其他规则（可选）:
 * AdAway  
@@ -38,6 +38,6 @@ https://anti-ad.net/easylist.txt
 - [@banbendalao/ADgk](https://github.com/banbendalao/ADgk)
 - [@adblockplus](https://adblockplus.org/)
 ## 项目 Star 数增长趋势
-[![Stargazers over time](https://starchart.cc/mphin/AdGuardHome_rules.svg)](https://starchart.cc/mphin/AdGuardHome_rules)
+[![Stargazers over time](https://starchart.cc/mphin/AdGuardHomeRules.svg)](https://starchart.cc/mphin/AdGuardHomeRules)
 
 本仓库创建于2023年7月2日

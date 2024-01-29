@@ -21,9 +21,9 @@ https://anti-ad.net/easylist.txt
 * AdAway  
 `https://adaway.org/hosts.txt`  
 * 乘风视频广告  
-`https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt`
+`https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt`
 * 乘风广告  
-`https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt`  
+`https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt`  
 * adgk手机去广告规则  
 `https://fastly.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt`  
 * EasyList针对国内的补充规则  

@@ -56,6 +56,8 @@ mobilelog.kugou.com
 umiwi.com
 ! > 腾讯视频
 soup.v.qq.com
+! > xlivesex直播
+xlivesex.com
 
 ! 苹果
 stats.gc.apple.com

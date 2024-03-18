@@ -152,6 +152,8 @@ bluehost.com
 ename.com.cn
 ename.net
 hosting24.com
+! > Raidrive # 拦截该域名会导致频繁弹窗Unknown及ConnectionAborted错误
+ads.raidrive.com^
 
 ! 出行生活
 ! > 饿了么

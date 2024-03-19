@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202403182103
+! Version: 202403191201
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
-! Total lines: 127
+! Total lines: 128
 
 ! > 搜狐
 api.tv.sohu.com^

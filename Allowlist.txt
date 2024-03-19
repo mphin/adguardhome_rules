@@ -3,11 +3,12 @@
 ! Homepage: https://github.com/mphin/AdGuardHome_rules
 ! Total lines: 127
 
-! 资讯
 ! > 搜狐
 api.tv.sohu.com^
 track.sohu.com^
 yule.sohu.com^
+! 搜狐视频 > 拦截该域名Safari无法播放视频
+data.vod.itc.cn^
 ! > MASN中国
 g.live.com^
 ! > 东方财富网
@@ -25,7 +26,6 @@ dftoutiao.com^
 ! 米读小说
 apiwz.midukanshu.com^
 
-! 媒体
 ! > UC短视频
 huichuan-mc.sm.cn
 huichuan.sm.cn
@@ -115,7 +115,6 @@ ac.dun.163yun.com
 csi.gstatic.com^
 googleadservices.com^
 
-! 游戏
 ! > 蜗牛
 woniu.com
 ! > 千橡
@@ -152,10 +151,9 @@ bluehost.com
 ename.com.cn
 ename.net
 hosting24.com
-! > Raidrive # 拦截该域名会导致频繁弹窗Unknown及ConnectionAborted错误
+! Raidrive > 拦截该域名会导致频繁弹窗Unknown及ConnectionAborted错误
 ads.raidrive.com^
 
-! 出行生活
 ! > 饿了么
 ipassport.ele.me
 ! > 建设银行

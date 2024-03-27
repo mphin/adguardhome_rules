@@ -7,7 +7,8 @@
 api.tv.sohu.com^
 track.sohu.com^
 yule.sohu.com^
-! 搜狐视频 > 拦截该域名Safari无法播放视频
+! > > 搜狐视频
+! 拦截该域名Safari无法播放视频
 data.vod.itc.cn^
 ! > MASN中国
 g.live.com^
@@ -36,6 +37,9 @@ ulive-sc.uc.cn
 v.uc.cn
 ! > 字节跳动
 haohuo.snssdk.com^
+! > > 抖音
+! 拦截该域名导致抖音实名认证校验无法显示页面
+lf1-cdn-tos.bytegoofy.com^
 ! > 快手
 api.kwaizt.com
 ! > 斗鱼
@@ -151,7 +155,8 @@ bluehost.com
 ename.com.cn
 ename.net
 hosting24.com
-! Raidrive > 拦截该域名会导致频繁弹窗Unknown及ConnectionAborted错误
+! > Raidrive
+! 拦截该广告域名导致在版本2023.9.90频繁弹窗Unknown及ConnectionAborted错误
 ads.raidrive.com^
 
 ! > 饿了么

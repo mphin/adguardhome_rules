@@ -27,6 +27,9 @@ dftoutiao.com^
 ! 米读小说
 apiwz.midukanshu.com^
 
+! > 优酷
+! 拦截该域名电脑端播放提示广告加载失败，无实际性作用容易产生歧义
+vali-g1.cp31.ott.cibntv.net^
 ! > UC短视频
 huichuan-mc.sm.cn
 huichuan.sm.cn

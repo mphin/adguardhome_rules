@@ -162,6 +162,9 @@ hosting24.com
 ! 拦截该广告域名导致在版本2023.9.90频繁弹窗Unknown及ConnectionAborted错误
 ads.raidrive.com^
 
+! > 美团
+! 拦截该域名提示网络错误，无法打开消息列表设置
+pubmsg.meituan.com^
 ! > 饿了么
 ipassport.ele.me
 ! > 建设银行

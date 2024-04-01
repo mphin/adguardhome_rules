@@ -1,5 +1,5 @@
 ! Title: 白名单补充
-! Version: 202403310214
+! Version: 202404011027
 ! Homepage: https://github.com/mphin/AdGuardHomeRules
 ! Total lines: 131
 ! Note: 搭配anti-AD主规则使用https://anti-ad.net/easylist.txt
@@ -32,133 +32,133 @@ apiwz.midukanshu.com^
 ! 拦截该域名电脑端播放提示广告加载失败，无实际性作用容易产生歧义
 vali-g1.cp31.ott.cibntv.net^
 ! > UC短视频
-huichuan-mc.sm.cn
-huichuan.sm.cn
-vps.uc.cn
+huichuan-mc.sm.cn^
+huichuan.sm.cn^
+vps.uc.cn^
 ! > UC直播
-ulive-interact.uc.cn
-ulive-sc.uc.cn
-v.uc.cn
+ulive-interact.uc.cn^
+ulive-sc.uc.cn^
+v.uc.cn^
 ! > 字节跳动
 haohuo.snssdk.com^
 ! > > 抖音
 ! 拦截该域名导致抖音实名认证校验无法显示页面
 lf1-cdn-tos.bytegoofy.com^
 ! > 快手
-api.kwaizt.com
+api.kwaizt.com^
 ! > 斗鱼
-gift.douyucdn.cn
-msg.douyu.com
+gift.douyucdn.cn^
+msg.douyu.com^
 ! > 爱奇艺
-act.vip.iqiyi.com
-msg.video.qiyi.com
-subscription.iqiyi.com
+act.vip.iqiyi.com^
+msg.video.qiyi.com^
+subscription.iqiyi.com^
 ! > 哔哩哔哩
-data.bilibili.com
-live-trace.bilibili.com
+data.bilibili.com^
+live-trace.bilibili.com^
 ! > 酷狗音乐
-mobilelog.kugou.com
+mobilelog.kugou.com^
 ! > 短剧
-1sapp.com
+1sapp.com^
 ! > 优米电视
-umiwi.com
+umiwi.com^
 ! > 腾讯视频
-soup.v.qq.com
+soup.v.qq.com^
 ! > xlivesex直播
-xlivesex.com
+xlivesex.com^
 
 ! 苹果
-stats.gc.apple.com
+stats.gc.apple.com^
 ! 小米
-resolver.msg.xiaomi.net
+resolver.msg.xiaomi.net^
 ! 腾讯
-l.qq.com
-yunjiasu.com
+l.qq.com^
+yunjiasu.com^
 ! > 应用宝
-sqdd.myapp.com
+sqdd.myapp.com^
 ! > 微信
-szlong.weixin.qq.com
+szlong.weixin.qq.com^
 ! 360
-h5.mse.360.cn
-jspassport.ssl.qhimg.com
-qhres2.com
+h5.mse.360.cn^
+jspassport.ssl.qhimg.com^
+qhres2.com^
 se.360.cn^
 ! 微软
-click.linksynergy.com
+click.linksynergy.com^
 ! 百度
-boxer.baidu.com
-fc3tn.baidu.com
-fc5tn.baidu.com
+boxer.baidu.com^
+fc3tn.baidu.com^
+fc5tn.baidu.com^
 feed-image.baidu.com^
-fexclick.baidu.com
-gsp0.baidu.com
-issuecdn.baidupcs.com
-ms.bdimg.com
-sofire.baidu.com
-wan.baidu.com
+fexclick.baidu.com^
+gsp0.baidu.com^
+issuecdn.baidupcs.com^
+ms.bdimg.com^
+sofire.baidu.com^
+wan.baidu.com^
 ! > 百度手机输入法
-udpolimenew.baidu.com
+udpolimenew.baidu.com^
 ! > 大牌餐饮
 sjh.baidu.com^
 ! 阿里巴巴
-dcms.1688.com
-gm.mmstat.com
-tanx.com
-wgo.mmstat.com
-zconfig.alibabausercontent.com
+dcms.1688.com^
+gm.mmstat.com^
+tanx.com^
+wgo.mmstat.com^
+zconfig.alibabausercontent.com^
 ! > 淘宝
-amdc.m.taobao.com
-click.mz.simba.taobao.com
-eco.taobao.com
-err.taobao.com
-s.click.taobao.com
+amdc.m.taobao.com^
+click.mz.simba.taobao.com^
+eco.taobao.com^
+err.taobao.com^
+s.click.taobao.com^
 ! 京东
-orbit.jd.com
-wl.jd.com
+orbit.jd.com^
+wl.jd.com^
 ! 网易
 api.iplay.163.com^
 ! > 网易云音乐云贝签到
-ac.dun.163yun.com
+ac.dun.163yun.com^
 ! 谷歌
 csi.gstatic.com^
 googleadservices.com^
 
 ! > 蜗牛
-woniu.com
+woniu.com^
 ! > 千橡
-imop.com
+imop.com^
 ! > 3975游戏
-3975.com
+3975.com^
 ! > 模拟城市
-live.simcitybuildit.com
+live.simcitybuildit.com^
 ! > 巨人网络
-ztgame.com
+ztgame.com^
 ! > 原神
-log-upload.mihoyo.com
+log-upload.mihoyo.com^
 
 ! APP工具
-ereg.wip3.adobe.com
+ereg.wip3.adobe.com^
 similarweb.com^
 ! > UC浏览器
-ucweb.com
+ucweb.com^
 ! > 下载
 duote.com^
 ! > >迅雷
-api-shoulei-ssl.xunlei.com
+api-shoulei-ssl.xunlei.com^
 ! > 查询
-7x24s.com
-mac.bmcx.com
+7x24s.com^
+mac.bmcx.com^
 ! > 试玩平台
-uri6.com
+uri6.com^
 ! > 天气预报
-e.weather.com.cn
+e.weather.com.cn^
 ! > PE工具
 laomaotao.net^
 ! > 域名注册
-bluehost.com
-ename.com.cn
-ename.net
-hosting24.com
+bluehost.com^
+ename.com.cn^
+ename.net^
+hosting24.com^
 ! > Raidrive
 ! 拦截该广告域名导致在版本2023.9.90频繁弹窗Unknown及ConnectionAborted错误
 ads.raidrive.com^
@@ -167,46 +167,46 @@ ads.raidrive.com^
 ! 拦截该域名提示网络错误，无法打开消息列表设置
 pubmsg.meituan.com^
 ! > 饿了么
-ipassport.ele.me
+ipassport.ele.me^
 ! > 建设银行
-adv.ccb.com
+adv.ccb.com^
 ! > 深圳通
-ecard.shenzhentong.com
+ecard.shenzhentong.com^
 ! > 百姓网
-baixing.com
+baixing.com^
 ! > 新疆网上税务局
-xj-n-tax.gov.cn
+xj-n-tax.gov.cn^
 ! > 百事公司大中华区
-pepsico.com.cn
+pepsico.com.cn^
 
 ! 其他
-auditude.com
-bitsumactivationserver.com
-c.evidon.com
-clarins.com.cn
-d1z2jf7jlzjs58.cloudfront.net
-d2na2p72vtqyok.cloudfront.net
-da.mmarket.com
-duiba.com.cn
-gvt2.com
-hsforms.net
-jiathis.com
-jimdo.com
-jwpcdn.com
-knet.cn
-lc-cn-n1-shared.com
-livere.com
-profile.csdnimg.cn
-s0.2mdn.net
+auditude.com^
+bitsumactivationserver.com^
+c.evidon.com^
+clarins.com.cn^
+d1z2jf7jlzjs58.cloudfront.net^
+d2na2p72vtqyok.cloudfront.net^
+da.mmarket.com^
+duiba.com.cn^
+gvt2.com^
+hsforms.net^
+jiathis.com^
+jimdo.com^
+jwpcdn.com^
+knet.cn^
+lc-cn-n1-shared.com^
+livere.com^
+profile.csdnimg.cn^
+s0.2mdn.net^
 statsig.com^
-tagtic.cn
-w8.com.cn
-widget.gleamjs.io
-wmflabs.org
-wxapp.lvyadx.cn
-x6img.com
-xifuquan.com
-zazhipu.com
+tagtic.cn^
+w8.com.cn^
+widget.gleamjs.io^
+wmflabs.org^
+wxapp.lvyadx.cn^
+x6img.com^
+xifuquan.com^
+zazhipu.com^
 ! > 同盾
-fp.tongdun.net
-fraudmetrix.cn
+fp.tongdun.net^
+fraudmetrix.cn^

@@ -1,7 +1,9 @@
 ! Title: 黑名单补充
 ! Version: 202401291607
-! Homepage: https://github.com/mphin/AdGuardHome_rules
+! Homepage: https://github.com/mphin/AdGuardHomeRules
 ! Total lines: 109
+! Note: 搭配anti-AD主规则使用https://anti-ad.net/easylist.txt
+
 ||1377a.xyz^
 ||180zhengkkl.com^
 ||18479.pw^
@@ -68,7 +70,6 @@
 ||ks8kjcefx5jc.me^
 ||lohdnyz.cn^
 ||lp011.click^
-||maplocatesdksnapshot.d.meituan.net^
 ||mjhsghnwg.xyz^
 ||monroe4825edcs.xyz^
 ||mv8l4bj34.cc^
@@ -90,7 +91,6 @@
 ||qp89pj.com^
 ||qwiudbnaiio.com^
 ||readfar.com^
-||route-stats.d.meituan.net^
 ||shmszv3r2.cc^
 ||shsunedu.com^
 ||sk1dupf2k.cc^
@@ -111,4 +111,9 @@
 ||z268.cc^
 ||zhjw2d2he.cc^
 ||zouohohnglnzh.xyz^
-
+! 美团外卖AppDebug无解析的公网域名，详见https://www.blueskyxn.com/202311/6919.html
+||route-stats.d.meituan.net^
+||maplocatesdksnapshot.d.meituan.net^
+||metrics-picture.d.meituan.net^
+! 91porn广告
+||fans.91selfie.com^

@@ -1,21 +1,25 @@
-name: List_updater
+name: AdRules_update
 on:
   push:
     branches:
       - main
     paths:
       - '*.txt'
+  workflow_dispatch:
+
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Set up time zone
-        run: sudo timedatectl set-timezone Asia/Shanghai
-      
-      - name: Checkout
-        uses: actions/checkout@v3
+        run: |
+          sudo timedatectl set-timezone Asia/Shanghai
 
-      - name: Get last commit files
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Get last commit SHA
         id: last_commit
         run: |
           echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
@@ -26,22 +30,23 @@ jobs:
           COMMIT=${{ env.sha }}
           URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
           FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r '.files[] | select(.filename | test("^.*\\.txt$")) | .filename')
+          if [ -z "$FILES" ]; then
+            FILES=$(find . -maxdepth 1 -name '*.txt')
+          fi
+          echo FILES=$FILES >> $GITHUB_OUTPUT
           
-          echo 更新文件内容
+      - name: Update files
+        run: |
+          echo "Updating files..."
+          FILES="${{ steps.file_list.outputs.FILES }}"
           for file in $FILES; do
-            # 修正字符
             sed -i -e 's/＞/>/g' -e 's/！/!/g' $file
-            # 获取变量
+            sed -i -E '/^\s*$/! { /^[^!#]/ { /^.*\^$/! s/$/\^/ } }' $file
             current_date=$(TZ=Asia/Shanghai date '+%Y%m%d%H%M')
             count=$(grep -v -e '^$' -e '^!' -e '^#' $file | wc -l)
             count_with_unit="${count}"
-            # 修改时间和数量
             sed -i "s/^! Version: .*/! Version: $current_date/" $file
             sed -i "s/^! Total lines: .*/! Total lines: $count_with_unit/" $file
-
-            grep -v -e '^$' -e '^!' -e '^#' $file | sed '/.$/!s/$/^/'
-
-            # 修改规则正序
             temp_file=$(mktemp)
             domain_list=""
             while IFS= read -r line; do
@@ -61,7 +66,9 @@ jobs:
             mv "$temp_file" "$file"
           done
 
-          echo 更新README.md
+      - name: Update README
+        run: |
+          echo "Updating README.md..."
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
           count_1=$(grep -v -e '^$' -e '^!' -e '^#' *.txt | wc -l)
           sed -i "s/最近更新: .*/最近更新: $new_date/" README.md

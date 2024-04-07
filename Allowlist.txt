@@ -2,7 +2,7 @@
 ! Version: 202404011027
 ! Homepage: https://github.com/mphin/AdGuardHomeRules
 ! Total lines: 131
-! Note: 搭配anti-AD主规则使用https://anti-ad.net/easylist.txt
+! Note: 本规则相对于隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! > 搜狐
 api.tv.sohu.com^
@@ -168,6 +168,8 @@ ads.raidrive.com^
 pubmsg.meituan.com^
 ! > 饿了么
 ipassport.ele.me^
+! > 天翼账号本机号码免注册一键登录
+id6.me
 ! > 建设银行
 adv.ccb.com^
 ! > 深圳通

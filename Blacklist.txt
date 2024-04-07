@@ -2,7 +2,7 @@
 ! Version: 202404011027
 ! Homepage: https://github.com/mphin/AdGuardHomeRules
 ! Total lines: 111
-! Note: 搭配anti-AD主规则使用https://anti-ad.net/easylist.txt
+! Note: 本规则为在 anti-AD 规则基础上的增补内容。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ||1377a.xyz^
 ||180zhengkkl.com^

@@ -78,6 +78,9 @@ yunjiasu.com^
 sqdd.myapp.com^
 ! > 微信
 szlong.weixin.qq.com^
+! > QQ
+! 有概率导致无法查找好友提示加载失败请检查网络后重试
+rdelivery.qq.com^
 ! 360
 h5.mse.360.cn^
 jspassport.ssl.qhimg.com^

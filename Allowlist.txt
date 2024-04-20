@@ -1,7 +1,7 @@
 ! Title: 白名单补充
-! Version: 202404092226
+! Version: 202404210702
 ! Homepage: https://github.com/mphin/AdGuardHomeRules
-! Total lines: 133
+! Total lines: 134
 ! Note: 本规则相对于隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! > 搜狐
@@ -102,7 +102,7 @@ wan.baidu.com^
 ! > 百度手机输入法
 udpolimenew.baidu.com^
 ! 拦截该域名导致输入法的灵感语录无法同步
-mime.baidu.com
+mime.baidu.com^
 ! > 大牌餐饮
 sjh.baidu.com^
 ! 阿里巴巴

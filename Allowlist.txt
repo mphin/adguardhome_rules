@@ -101,6 +101,8 @@ sofire.baidu.com^
 wan.baidu.com^
 ! > 百度手机输入法
 udpolimenew.baidu.com^
+! 拦截该域名导致输入法的灵感语录无法同步
+mime.baidu.com
 ! > 大牌餐饮
 sjh.baidu.com^
 ! 阿里巴巴

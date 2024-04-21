@@ -11,6 +11,7 @@ yule.sohu.com^
 ! > > 搜狐视频
 ! 拦截该域名Safari无法播放视频
 data.vod.itc.cn^
+
 ! > MASN中国
 g.live.com^
 ! > 东方财富网
@@ -25,11 +26,11 @@ mix.sina.com.cn^
 ! > 东方头条
 dftoutiao.com^
 
-! 米读小说
+! > 米读小说
 apiwz.midukanshu.com^
 
 ! > 优酷
-! 拦截该域名电脑端播放提示广告加载失败，无实际性作用容易产生歧义
+! 拦截该域名电脑端页面提示广告加载失败，无实际性作用容易产生歧义
 vali-g1.cp31.ott.cibntv.net^
 ! > UC短视频
 huichuan-mc.sm.cn^
@@ -39,11 +40,13 @@ vps.uc.cn^
 ulive-interact.uc.cn^
 ulive-sc.uc.cn^
 v.uc.cn^
+
 ! > 字节跳动
 haohuo.snssdk.com^
 ! > > 抖音
-! 拦截该域名导致抖音实名认证校验无法显示页面
+! 抖音实名认证校验页面
 lf1-cdn-tos.bytegoofy.com^
+
 ! > 快手
 api.kwaizt.com^
 ! > 斗鱼
@@ -62,33 +65,36 @@ mobilelog.kugou.com^
 1sapp.com^
 ! > 优米电视
 umiwi.com^
-! > 腾讯视频
-soup.v.qq.com^
 ! > xlivesex直播
 xlivesex.com^
 
-! 苹果
+! > 苹果
 stats.gc.apple.com^
-! 小米
+! > 小米
 resolver.msg.xiaomi.net^
-! 腾讯
+
+! > 腾讯
 l.qq.com^
 yunjiasu.com^
-! > 应用宝
+! > > 应用宝
 sqdd.myapp.com^
-! > 微信
+! > > 微信
 szlong.weixin.qq.com^
-! > QQ
-! 有概率导致无法查找好友提示加载失败请检查网络后重试
+! > > 手机QQ
+! 查找好友加载页面
 rdelivery.qq.com^
-! 360
+! > > 腾讯视频
+soup.v.qq.com^
+
+! > 360
 h5.mse.360.cn^
 jspassport.ssl.qhimg.com^
 qhres2.com^
 se.360.cn^
-! 微软
+! > 微软
 click.linksynergy.com^
-! 百度
+
+! > 百度
 boxer.baidu.com^
 fc3tn.baidu.com^
 fc5tn.baidu.com^
@@ -99,13 +105,17 @@ issuecdn.baidupcs.com^
 ms.bdimg.com^
 sofire.baidu.com^
 wan.baidu.com^
-! > 百度手机输入法
-udpolimenew.baidu.com^
-! 拦截该域名导致输入法的灵感语录无法同步
-mime.baidu.com^
-! > 大牌餐饮
+! > > 大牌餐饮
 sjh.baidu.com^
-! 阿里巴巴
+! > > 百度手机输入法
+! 输入法云联想
+udpolimenew.baidu.com^
+! 输入法灵感语录同步
+mime.baidu.com^
+
+! > 搜狗手机输入法
+shouji.sogou.com
+! > 阿里巴巴
 dcms.1688.com^
 gm.mmstat.com^
 tanx.com^
@@ -117,13 +127,16 @@ click.mz.simba.taobao.com^
 eco.taobao.com^
 err.taobao.com^
 s.click.taobao.com^
-! 京东
+! > 京东
 orbit.jd.com^
 wl.jd.com^
-! 网易
+
+! > 网易
 api.iplay.163.com^
-! > 网易云音乐云贝签到
+! > > 网易云音乐
+! 云贝签到
 ac.dun.163yun.com^
+
 ! 谷歌
 csi.gstatic.com^
 googleadservices.com^
@@ -141,7 +154,7 @@ ztgame.com^
 ! > 原神
 log-upload.mihoyo.com^
 
-! APP工具
+! > APP工具
 ereg.wip3.adobe.com^
 similarweb.com^
 ! > UC浏览器
@@ -173,7 +186,8 @@ ads.raidrive.com^
 pubmsg.meituan.com^
 ! > 饿了么
 ipassport.ele.me^
-! > 天翼账号本机号码免注册一键登录
+! > 中国电信
+! 天翼账号本机号码免注册一键登录
 id6.me^
 ! > 建设银行
 adv.ccb.com^
@@ -186,7 +200,7 @@ xj-n-tax.gov.cn^
 ! > 百事公司大中华区
 pepsico.com.cn^
 
-! 其他
+! > 其他
 auditude.com^
 bitsumactivationserver.com^
 c.evidon.com^

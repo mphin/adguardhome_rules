@@ -1,4 +1,4 @@
-! Title: 白名单补充
+! Title: AdGuardHome白名单
 ! Version: 202404210951
 ! Homepage: https://github.com/mphin/AdGuardHomeRules
 ! Total lines: 135
@@ -178,8 +178,9 @@ ename.com.cn^
 ename.net^
 hosting24.com^
 ! > Raidrive
-! 拦截该广告域名导致在版本2023.9.90频繁弹窗Unknown及ConnectionAborted错误
-ads.raidrive.com^
+! 2023.9.90版本：拦截该广告域名，导致频繁弹窗Unknown及ConnectionAborted错误
+! 2023.9.150版本：问题已解决，恢复正常
+! ads.raidrive.com^
 
 ! > 美团
 ! 拦截该域名提示网络错误，无法打开消息列表设置

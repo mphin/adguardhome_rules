@@ -1,7 +1,7 @@
 ! Title: AdGuardHome白名单
-! Version: 202404260247
+! Version: 202406120915
 ! Homepage: https://github.com/mphin/AdGuardHomeRules
-! Total lines: 134
+! Total lines: 135
 ! Note: 本规则相对于隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! > 搜狐

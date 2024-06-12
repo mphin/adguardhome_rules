@@ -1,5 +1,5 @@
 ! Title: 黑名单补充
-! Version: 202404072312
+! Version: 202406120915
 ! Homepage: https://github.com/mphin/AdGuardHomeRules
 ! Total lines: 111
 ! Note: 本规则为在 anti-AD 规则基础上的增补内容。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt

@@ -49,6 +49,9 @@ lf1-cdn-tos.bytegoofy.com^
 
 ! > 快手
 api.kwaizt.com^
+! > > 看直播领金币 api.e.kuaishou.com
+e.kuaishou.com^
+
 ! > 斗鱼
 gift.douyucdn.cn^
 msg.douyu.com^

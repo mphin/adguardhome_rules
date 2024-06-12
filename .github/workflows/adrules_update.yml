@@ -66,13 +66,13 @@ jobs:
             mv "$temp_file" "$file"
           done
 
-      - name: Update README
+      - name: 更新 README
         run: |
           echo "Updating README.md..."
           new_date=$(TZ='Asia/Shanghai' date +'%Y年%m月%d日%H:%M:%S')
           count_1=$(grep -v -e '^$' -e '^!' -e '^#' *.txt | wc -l)
-          sed -i "s/最近更新: .*/最近更新: $new_date/" README.md
-          sed -i "s/补充数量: .*/补充数量: $count_1条/" README.md
+          sed -i "s/最近更新: .*/最近更新: $new_date/" readme.md
+          sed -i "s/补充数量: .*/补充数量: $count_1条/" readme.md
 
       - name: Commit And Push
         run: |

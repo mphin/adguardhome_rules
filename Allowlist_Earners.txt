@@ -1,295 +1,295 @@
 ! Title: AdGuardHome白名单_Earners
-! Version: 202406120915
+! Version: 202407191352
 ! Homepage: https://github.com/mphin/adguardhome_rules
-! Total lines: 135
+! Total lines: 183
 ! Note: 本规则主要用于部分特殊用户，通过特定操作（如观看广告、完成任务等）来赚取收入的用户。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! ================= 短链 =================
 ! 大部分推广链接，用于跳转下载软件
-lnk0.com^
+lnk0.com^^
 
 ! ================= 番茄畅听 =================
 ! 看视频赚金币
-ads3-normal-lf.zijieapi.com^
-ads5-normal-lf.zijieapi.com^
+ads3-normal-lf.zijieapi.com^^
+ads5-normal-lf.zijieapi.com^^
 
 ! ================= 钱咖试玩星 =================
 ! 下载页面
-m.qianka.com^
+m.qianka.com^^
 
 ! ================= 快手 =================
 ! 看直播领金币
-e.kuaishou.com^
+e.kuaishou.com^^
 
 ! ================= UC浏览器极速版 =================
 ! 签到领奖励
-coral-task.uc.cn^
+coral-task.uc.cn^^
 ! 倒计时广告领奖励
-ugdtimg.com^
-adukwai.com^
+adukwai.com^^
+ugdtimg.com^^
 
 ! ================= 爱奇艺极速版 =================
 ! 看广告领金币
-msg.qy.net^
-cupid.iqiyi.com^
+cupid.iqiyi.com^^
+msg.qy.net^^
 
 ! ================= 抖音极速版 =================
 ! 看广告领金币
-ad.zijieapi.com^
+ad.zijieapi.com^^
 
 ! ================= 头条搜索极速版 =================
 ! 登录查看任务余额
-tnc3-bjlgy.zijieapi.com^
+tnc3-bjlgy.zijieapi.com^^
 
 ! ================= 多多红包 =================
 ! 看视频领金币
-pangolin-sdk-toutiao.com^
-pangolin-sdk-toutiao1.com^
+pangolin-sdk-toutiao.com^^
+pangolin-sdk-toutiao1.com^^
 
 ! ================= 试玩平台 =================
-uri6.com^
+uri6.com^^
 
 
 ! --------------------------------------------------------------------
 ! --------------------------------------------------------------------
 
 ! ================= 搜狐 =================
-api.tv.sohu.com^
-track.sohu.com^
-yule.sohu.com^
+api.tv.sohu.com^^
+track.sohu.com^^
+yule.sohu.com^^
 ! ================= 搜狐视频 =================
 ! 拦截该域名Safari无法播放视频
-data.vod.itc.cn^
+data.vod.itc.cn^^
 
 ! ================= MASN中国 =================
-g.live.com^
+g.live.com^^
 ! ================= 东方财富网 =================
-dfcfw.com^
-mobappconfig.securities.eastmoney.com^
+dfcfw.com^^
+mobappconfig.securities.eastmoney.com^^
 ! ================= 中关村在线 =================
-direct.wap.zol.com.cn^
+direct.wap.zol.com.cn^^
 ! ================= 新浪 =================
-iask.cn^
-iask.com.cn^
-mix.sina.com.cn^
+iask.cn^^
+iask.com.cn^^
+mix.sina.com.cn^^
 ! ================= 东方头条 =================
-dftoutiao.com^
+dftoutiao.com^^
 
 ! ================= 米读小说 =================
-apiwz.midukanshu.com^
+apiwz.midukanshu.com^^
 
 ! ================= 优酷 =================
 ! 电脑端提示广告加载失败，易产生歧义，实际在有效倒计时
-vali-g1.cp31.ott.cibntv.net^
+vali-g1.cp31.ott.cibntv.net^^
 ! ================= UC短视频 =================
-huichuan-mc.sm.cn^
-huichuan.sm.cn^
-vps.uc.cn^
+huichuan-mc.sm.cn^^
+huichuan.sm.cn^^
+vps.uc.cn^^
 ! ================= UC直播 =================
-ulive-interact.uc.cn^
-ulive-sc.uc.cn^
-v.uc.cn^
+ulive-interact.uc.cn^^
+ulive-sc.uc.cn^^
+v.uc.cn^^
 
 ! ================= 字节跳动 =================
-haohuo.snssdk.com^
+haohuo.snssdk.com^^
 ! ================= 抖音 =================
 ! 抖音实名认证校验页面
-lf1-cdn-tos.bytegoofy.com^
+lf1-cdn-tos.bytegoofy.com^^
 ! ================= 番茄畅听 =================
 ! 反馈帮助页面
-ic.snssdk.com^
+ic.snssdk.com^^
 
 ! ================= 快手 =================
-api.kwaizt.com^
+api.kwaizt.com^^
 ! 送礼使用规则
-w1.kskwai.com^
+w1.kskwai.com^^
 
 ! ================= 斗鱼 =================
-gift.douyucdn.cn^
-msg.douyu.com^
+gift.douyucdn.cn^^
+msg.douyu.com^^
 ! ================= 爱奇艺 =================
-act.vip.iqiyi.com^
-msg.video.qiyi.com^
-subscription.iqiyi.com^
+act.vip.iqiyi.com^^
+msg.video.qiyi.com^^
+subscription.iqiyi.com^^
 ! ================= 哔哩哔哩 =================
-data.bilibili.com^
-live-trace.bilibili.com^
+data.bilibili.com^^
+live-trace.bilibili.com^^
 ! ================= 酷狗音乐 =================
-mobilelog.kugou.com^
+mobilelog.kugou.com^^
 ! ================= 短剧 =================
-1sapp.com^
+1sapp.com^^
 ! ================= 优米电视 =================
-umiwi.com^
+umiwi.com^^
 ! ================= xlivesex =================
-xlivesex.com^
+xlivesex.com^^
 ! ================= xhamsterlive =================
-hpyrdr.com^
+hpyrdr.com^^
 
 ! ================= 苹果 =================
-stats.gc.apple.com^
+stats.gc.apple.com^^
 ! ================= 小米 =================
-resolver.msg.xiaomi.net^
+resolver.msg.xiaomi.net^^
 
 ! ================= 腾讯 =================
-l.qq.com^
-yunjiasu.com^
+l.qq.com^^
+yunjiasu.com^^
 ! ================= 应用宝 =================
-sqdd.myapp.com^
+sqdd.myapp.com^^
 ! ================= 微信 =================
-szlong.weixin.qq.com^
+szlong.weixin.qq.com^^
 ! ================= 手机QQ =================
 ! 查找好友加载页面
-rdelivery.qq.com^
+rdelivery.qq.com^^
 ! ================= 腾讯视频 =================
-soup.v.qq.com^
+soup.v.qq.com^^
 
 ! ================= 360 =================
-h5.mse.360.cn^
-jspassport.ssl.qhimg.com^
-qhres2.com^
-se.360.cn^
+h5.mse.360.cn^^
+jspassport.ssl.qhimg.com^^
+qhres2.com^^
+se.360.cn^^
 ! ================= 微软 =================
-click.linksynergy.com^
+click.linksynergy.com^^
 
 ! ================= 百度 =================
-boxer.baidu.com^
-fc3tn.baidu.com^
-fc5tn.baidu.com^
-feed-image.baidu.com^
-fexclick.baidu.com^
-gsp0.baidu.com^
-issuecdn.baidupcs.com^
-ms.bdimg.com^
-sofire.baidu.com^
-wan.baidu.com^
+boxer.baidu.com^^
+fc3tn.baidu.com^^
+fc5tn.baidu.com^^
+feed-image.baidu.com^^
+fexclick.baidu.com^^
+gsp0.baidu.com^^
+issuecdn.baidupcs.com^^
+ms.bdimg.com^^
+sofire.baidu.com^^
+wan.baidu.com^^
 ! 大牌餐饮
-sjh.baidu.com^
+sjh.baidu.com^^
 ! ================= 百度手机输入法 =================
 ! 云联想
-udpolimenew.baidu.com^
+udpolimenew.baidu.com^^
 ! 灵感语录同步
-mime.baidu.com^
+mime.baidu.com^^
 
 ! ================= 搜狗手机输入法 =================
-shouji.sogou.com^
+shouji.sogou.com^^
 ! ================= 阿里巴巴 =================
-dcms.1688.com^
-gm.mmstat.com^
-tanx.com^
-wgo.mmstat.com^
-zconfig.alibabausercontent.com^
+dcms.1688.com^^
+gm.mmstat.com^^
+tanx.com^^
+wgo.mmstat.com^^
+zconfig.alibabausercontent.com^^
 ! ================= 淘宝 =================
-amdc.m.taobao.com^
-click.mz.simba.taobao.com^
-eco.taobao.com^
-err.taobao.com^
-s.click.taobao.com^
+amdc.m.taobao.com^^
+click.mz.simba.taobao.com^^
+eco.taobao.com^^
+err.taobao.com^^
+s.click.taobao.com^^
 ! 第三方授权一键绑定
-tunion-api.m.taobao.com^
+tunion-api.m.taobao.com^^
 ! ================= 京东 =================
-orbit.jd.com^
-wl.jd.com^
+orbit.jd.com^^
+wl.jd.com^^
 
 ! ================= 网易 =================
-api.iplay.163.com^
+api.iplay.163.com^^
 ! ================= 网易云音乐 =================
 ! 云贝签到
-ac.dun.163yun.com^
+ac.dun.163yun.com^^
 
 ! 谷歌
 ! ================= 网易云音乐 =================
-csi.gstatic.com^
-googleadservices.com^
+csi.gstatic.com^^
+googleadservices.com^^
 
 ! ================= 蜗牛 =================
-woniu.com^
+woniu.com^^
 ! ================= 千橡 =================
-imop.com^
+imop.com^^
 ! ================= 3975游戏 =================
-3975.com^
+3975.com^^
 ! ================= 模拟城市 =================
-live.simcitybuildit.com^
+live.simcitybuildit.com^^
 ! ================= 巨人网络 =================
-ztgame.com^
+ztgame.com^^
 ! ================= 原神 =================
-log-upload.mihoyo.com^
+log-upload.mihoyo.com^^
 
 ! ================= APP工具 =================
-ereg.wip3.adobe.com^
-similarweb.com^
+ereg.wip3.adobe.com^^
+similarweb.com^^
 ! ================= UC浏览器 =================
-ucweb.com^
+ucweb.com^^
 ! ================= 下载 =================
-duote.com^
+duote.com^^
 ! ================= 迅雷 =================
-api-shoulei-ssl.xunlei.com^
+api-shoulei-ssl.xunlei.com^^
 ! ================= 查询 =================
 ! MAC地址查询
-7x24s.com^
+7x24s.com^^
 ! ================= 天气预报 =================
-e.weather.com.cn^
+e.weather.com.cn^^
 ! ================= 老毛桃PE工具 =================
-laomaotao.net^
+laomaotao.net^^
 ! ================= 域名注册 =================
-bluehost.com^
-ename.com.cn^
-ename.net^
-hosting24.com^
+bluehost.com^^
+ename.com.cn^^
+ename.net^^
+hosting24.com^^
 ! ================= Raidrive =================
 ! 2023.9.90版本，拦截该广告域名频繁弹窗Unknown及ConnectionAborted错误
 ! ads.raidrive.com^
 ! ================= 电视盒子 =================
 ! 电视盒子下载，cnhezi.niuaniua.com
-niuaniua.com^
+niuaniua.com^^
 
 ! ================= 美团 =================
 ! 拦截该域名提示网络错误，无法打开消息列表设置
-pubmsg.meituan.com^
+pubmsg.meituan.com^^
 ! ================= 饿了么 =================
-ipassport.ele.me^
+ipassport.ele.me^^
 ! ================= 中国电信 =================
 ! 天翼账号本机号码免注册一键登录
-id6.me^
+id6.me^^
 ! ================= 建设银行 =================
-adv.ccb.com^
+adv.ccb.com^^
 ! ================= 深圳通 =================
-ecard.shenzhentong.com^
+ecard.shenzhentong.com^^
 ! ================= 百姓网 =================
-baixing.com^
+baixing.com^^
 ! ================= 新疆网上税务局 =================
-xj-n-tax.gov.cn^
+xj-n-tax.gov.cn^^
 ! ================= 百事公司大中华区 =================
-pepsico.com.cn^
+pepsico.com.cn^^
 
 
 ! ================= 其它 =================
-auditude.com^
-bitsumactivationserver.com^
-c.evidon.com^
-clarins.com.cn^
-d1z2jf7jlzjs58.cloudfront.net^
-d2na2p72vtqyok.cloudfront.net^
-da.mmarket.com^
-duiba.com.cn^
-gvt2.com^
-hsforms.net^
-jiathis.com^
-jimdo.com^
-jwpcdn.com^
-knet.cn^
-lc-cn-n1-shared.com^
-livere.com^
-profile.csdnimg.cn^
-s0.2mdn.net^
-statsig.com^
-tagtic.cn^
-w8.com.cn^
-widget.gleamjs.io^
-wmflabs.org^
-wxapp.lvyadx.cn^
-x6img.com^
-xifuquan.com^
-zazhipu.com^
+auditude.com^^
+bitsumactivationserver.com^^
+c.evidon.com^^
+clarins.com.cn^^
+d1z2jf7jlzjs58.cloudfront.net^^
+d2na2p72vtqyok.cloudfront.net^^
+da.mmarket.com^^
+duiba.com.cn^^
+gvt2.com^^
+hsforms.net^^
+jiathis.com^^
+jimdo.com^^
+jwpcdn.com^^
+knet.cn^^
+lc-cn-n1-shared.com^^
+livere.com^^
+profile.csdnimg.cn^^
+s0.2mdn.net^^
+statsig.com^^
+tagtic.cn^^
+w8.com.cn^^
+widget.gleamjs.io^^
+wmflabs.org^^
+wxapp.lvyadx.cn^^
+x6img.com^^
+xifuquan.com^^
+zazhipu.com^^
 ! ================= 同盾 =================
-fp.tongdun.net^
-fraudmetrix.cn^
+fp.tongdun.net^^
+fraudmetrix.cn^^

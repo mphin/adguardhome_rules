@@ -1,7 +1,7 @@
 ! Title: AdGuardHome白名单_Earners
-! Version: 202407191352
+! Version: 202407191419
 ! Homepage: https://github.com/mphin/adguardhome_rules
-! Total lines: 183
+! Total lines: 152
 ! Note: 本规则主要用于部分特殊用户，通过特定操作（如观看广告、完成任务等）来赚取收入的用户。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! ================= 短链 =================
@@ -25,13 +25,13 @@ e.kuaishou.com^
 ! 签到领奖励
 coral-task.uc.cn^
 ! 倒计时广告领奖励
-ugdtimg.com^
 adukwai.com^
+ugdtimg.com^
 
 ! ================= 爱奇艺极速版 =================
 ! 看广告领金币
-msg.qy.net^
 cupid.iqiyi.com^
+msg.qy.net^
 
 ! ================= 抖音极速版 =================
 ! 看广告领金币
@@ -292,4 +292,3 @@ xifuquan.com^
 zazhipu.com^
 ! ================= 同盾 =================
 fp.tongdun.net^
-fraudmetrix.cn^

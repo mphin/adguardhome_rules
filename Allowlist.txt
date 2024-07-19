@@ -1,103 +1,108 @@
 ! Title: AdGuardHome白名单
 ! Version: 202406120915
-! Homepage: https://github.com/mphin/AdGuardHomeRules
+! Homepage: https://github.com/mphin/adguardhome_rules
 ! Total lines: 135
-! Note: 本规则相对于隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
+! Note: 本规则相对于广告隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
-! > 搜狐
+! ================= 搜狐 =================
 api.tv.sohu.com^
 track.sohu.com^
 yule.sohu.com^
-! > > 搜狐视频
+! ================= 搜狐视频 =================
 ! 拦截该域名Safari无法播放视频
 data.vod.itc.cn^
 
-! > MASN中国
+! ================= MASN中国 =================
 g.live.com^
-! > 东方财富网
+! ================= 东方财富网 =================
 dfcfw.com^
 mobappconfig.securities.eastmoney.com^
-! > 中关村在线
+! ================= 中关村在线 =================
 direct.wap.zol.com.cn^
-! > 新浪
+! ================= 新浪 =================
 iask.cn^
 iask.com.cn^
 mix.sina.com.cn^
-! > 东方头条
+! ================= 东方头条 =================
 dftoutiao.com^
 
-! > 米读小说
+! ================= 米读小说 =================
 apiwz.midukanshu.com^
 
-! > 优酷
-! 拦截该域名电脑端页面提示广告加载失败，无实际性作用容易产生歧义
+! ================= 优酷 =================
+! 电脑端提示广告加载失败，易产生歧义，实际在有效倒计时
 vali-g1.cp31.ott.cibntv.net^
-! > UC短视频
+! ================= UC短视频 =================
 huichuan-mc.sm.cn^
 huichuan.sm.cn^
 vps.uc.cn^
-! > UC直播
+! ================= UC直播 =================
 ulive-interact.uc.cn^
 ulive-sc.uc.cn^
 v.uc.cn^
 
-! > 字节跳动
+! ================= 字节跳动 =================
 haohuo.snssdk.com^
-! > > 抖音
+! ================= 抖音 =================
 ! 抖音实名认证校验页面
 lf1-cdn-tos.bytegoofy.com^
+! ================= 番茄畅听 =================
+! 反馈帮助页面
+ic.snssdk.com^
 
-! > 快手
+! ================= 快手 =================
 api.kwaizt.com^
-! > > 看直播领金币 api.e.kuaishou.com
-e.kuaishou.com^
+! 送礼使用规则
+w1.kskwai.com^
 
-! > 斗鱼
+! ================= 斗鱼 =================
 gift.douyucdn.cn^
 msg.douyu.com^
-! > 爱奇艺
+! ================= 爱奇艺 =================
 act.vip.iqiyi.com^
 msg.video.qiyi.com^
 subscription.iqiyi.com^
-! > 哔哩哔哩
+! ================= 哔哩哔哩 =================
 data.bilibili.com^
 live-trace.bilibili.com^
-! > 酷狗音乐
+! ================= 酷狗音乐 =================
 mobilelog.kugou.com^
-! > 短剧
+! ================= 短剧 =================
 1sapp.com^
-! > 优米电视
+! ================= 优米电视 =================
 umiwi.com^
-! > xlivesex直播
+! ================= xlivesex =================
 xlivesex.com^
+! ================= xhamsterlive =================
+hpyrdr.com^
 
-! > 苹果
+! ================= 苹果 =================
 stats.gc.apple.com^
-! > 小米
+! ================= 小米 =================
 resolver.msg.xiaomi.net^
 
-! > 腾讯
+! ================= 腾讯 =================
 l.qq.com^
 yunjiasu.com^
-! > > 应用宝
+! ================= 应用宝 =================
 sqdd.myapp.com^
-! > > 微信
+! ================= 微信 =================
 szlong.weixin.qq.com^
-! > > 手机QQ
+! ================= 手机QQ =================
 ! 查找好友加载页面
 rdelivery.qq.com^
-! > > 腾讯视频
+! ================= 腾讯视频 =================
 soup.v.qq.com^
 
-! > 360
+! ================= 360 =================
 h5.mse.360.cn^
 jspassport.ssl.qhimg.com^
 qhres2.com^
 se.360.cn^
-! > 微软
+! ================= 微软 =================
 click.linksynergy.com^
 
-! > 百度
+! ================= 百度 =================
 boxer.baidu.com^
 fc3tn.baidu.com^
 fc5tn.baidu.com^
@@ -108,103 +113,107 @@ issuecdn.baidupcs.com^
 ms.bdimg.com^
 sofire.baidu.com^
 wan.baidu.com^
-! > > 大牌餐饮
+! 大牌餐饮
 sjh.baidu.com^
-! > > 百度手机输入法
-! 输入法云联想
+! ================= 百度手机输入法 =================
+! 云联想
 udpolimenew.baidu.com^
-! 输入法灵感语录同步
+! 灵感语录同步
 mime.baidu.com^
 
-! > 搜狗手机输入法
+! ================= 搜狗手机输入法 =================
 shouji.sogou.com^
-! > 阿里巴巴
+! ================= 阿里巴巴 =================
 dcms.1688.com^
 gm.mmstat.com^
 tanx.com^
 wgo.mmstat.com^
 zconfig.alibabausercontent.com^
-! > 淘宝
+! ================= 淘宝 =================
 amdc.m.taobao.com^
 click.mz.simba.taobao.com^
 eco.taobao.com^
 err.taobao.com^
 s.click.taobao.com^
-! > 京东
+! 第三方授权一键绑定
+tunion-api.m.taobao.com^
+! ================= 京东 =================
 orbit.jd.com^
 wl.jd.com^
 
-! > 网易
+! ================= 网易 =================
 api.iplay.163.com^
-! > > 网易云音乐
+! ================= 网易云音乐 =================
 ! 云贝签到
 ac.dun.163yun.com^
 
 ! 谷歌
+! ================= 网易云音乐 =================
 csi.gstatic.com^
 googleadservices.com^
 
-! > 蜗牛
+! ================= 蜗牛 =================
 woniu.com^
-! > 千橡
+! ================= 千橡 =================
 imop.com^
-! > 3975游戏
+! ================= 3975游戏 =================
 3975.com^
-! > 模拟城市
+! ================= 模拟城市 =================
 live.simcitybuildit.com^
-! > 巨人网络
+! ================= 巨人网络 =================
 ztgame.com^
-! > 原神
+! ================= 原神 =================
 log-upload.mihoyo.com^
 
-! > APP工具
+! ================= APP工具 =================
 ereg.wip3.adobe.com^
 similarweb.com^
-! > UC浏览器
+! ================= UC浏览器 =================
 ucweb.com^
-! > 下载
+! ================= 下载 =================
 duote.com^
-! > >迅雷
+! ================= 迅雷 =================
 api-shoulei-ssl.xunlei.com^
-! > 查询
+! ================= 查询 =================
+! MAC地址查询
 7x24s.com^
-mac.bmcx.com^
-! > 试玩平台
-uri6.com^
-! > 天气预报
+! ================= 天气预报 =================
 e.weather.com.cn^
-! > PE工具
+! ================= 老毛桃PE工具 =================
 laomaotao.net^
-! > 域名注册
+! ================= 域名注册 =================
 bluehost.com^
 ename.com.cn^
 ename.net^
 hosting24.com^
-! > Raidrive
-! 2023.9.90版本：拦截该广告域名，导致频繁弹窗Unknown及ConnectionAborted错误
-! 2023.9.150版本：问题已解决，恢复正常
+! ================= Raidrive =================
+! 2023.9.90版本，拦截该广告域名频繁弹窗Unknown及ConnectionAborted错误
 ! ads.raidrive.com^
+! ================= 电视盒子 =================
+! 电视盒子下载，cnhezi.niuaniua.com
+niuaniua.com^
 
-! > 美团
+! ================= 美团 =================
 ! 拦截该域名提示网络错误，无法打开消息列表设置
 pubmsg.meituan.com^
-! > 饿了么
+! ================= 饿了么 =================
 ipassport.ele.me^
-! > 中国电信
+! ================= 中国电信 =================
 ! 天翼账号本机号码免注册一键登录
 id6.me^
-! > 建设银行
+! ================= 建设银行 =================
 adv.ccb.com^
-! > 深圳通
+! ================= 深圳通 =================
 ecard.shenzhentong.com^
-! > 百姓网
+! ================= 百姓网 =================
 baixing.com^
-! > 新疆网上税务局
+! ================= 新疆网上税务局 =================
 xj-n-tax.gov.cn^
-! > 百事公司大中华区
+! ================= 百事公司大中华区 =================
 pepsico.com.cn^
 
-! > 其他
+
+! ================= 其它 =================
 auditude.com^
 bitsumactivationserver.com^
 c.evidon.com^
@@ -232,6 +241,6 @@ wxapp.lvyadx.cn^
 x6img.com^
 xifuquan.com^
 zazhipu.com^
-! > 同盾
+! ================= 同盾 =================
 fp.tongdun.net^
 fraudmetrix.cn^

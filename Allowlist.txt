@@ -1,9 +1,3 @@
-! Title: AdGuardHome白名单
-! Version: 202407191352
-! Homepage: https://github.com/mphin/adguardhome_rules
-! Total lines: 137
-! Note: 本规则相对于广告隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
-
 ! ================= 搜狐 =================
 api.tv.sohu.com^
 track.sohu.com^

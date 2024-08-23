@@ -56,7 +56,7 @@ msg.douyu.com^
 act.vip.iqiyi.com^
 msg.video.qiyi.com^
 subscription.iqiyi.com^
-msg.qy.net^
+qy.net^
 ! ================= 哔哩哔哩 =================
 data.bilibili.com^
 live-trace.bilibili.com^

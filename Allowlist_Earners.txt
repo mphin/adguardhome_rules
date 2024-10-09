@@ -1,7 +1,7 @@
 ! Title: AdGuardHome白名单_Earners
-! Version: 202410040839
+! Version: 202410091606
 ! Homepage: https://github.com/mphin/adguardhome_rules
-! Total lines: 154
+! Total lines: 155
 ! Note: 本规则主要用于部分特殊用户，通过特定操作（如观看广告、完成任务等）来赚取收入的用户。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! ================= 短链 =================

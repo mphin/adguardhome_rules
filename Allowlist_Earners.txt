@@ -22,6 +22,8 @@ m.qianka.com^
 e.kuaishou.com^
 ! 看广告得金币，APP页面下载
 adkwai.com^
+! 看广告得金币，百度相关广告
+ada.baidu.com^
 
 ! ================= 喜番免费短剧 =================
 ! 提现页面

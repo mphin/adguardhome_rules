@@ -2,38 +2,37 @@
 ! Version: 202410140450
 ! Homepage: https://github.com/mphin/adguardhome_rules
 ! Total lines: 156
-! Note: 本规则主要用于部分特殊用户，通过特定操作（如观看广告、完成任务等）来赚取收入的用户。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
+! Note: 本规则主要用于部分特殊用户，通过特定操作（如观看广告、完成任务等）来赚取奖励的用户。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! ================= 短链 =================
-! 大部分推广链接，用于跳转下载软件
+! 大部分为推广链接，用于跳转下载软件
 lnk0.com^
 
 ! ================= 字节系APP =================
-! 抖音极速版，看广告领金币
+! 巨量引擎广告，回传转化数据
+analytics.oceanengine.com^
+! 看广告下载APP页面
+chengzijianzhan.cc^
+! 看广告领金币
+ads3-normal-lf.zijieapi.com^
+ads5-normal-lf.zijieapi.com^
 ad.zijieapi.com^
 ! 头条搜索极速版，登录查看任务余额
 tnc3-bjlgy.zijieapi.com^
-! 番茄畅听，看视频赚金币
-ads3-normal-lf.zijieapi.com^
-ads5-normal-lf.zijieapi.com^
-! 红果免费短剧，看广告下载APP页面
-chengzijianzhan.cc^
+
+! ================= 快手系APP =================
+! 看直播领金币
+e.kuaishou.com^
+! 看广告下载APP页面
+adkwai.com^
+! 看广告得金币，百度相关广告
+ada.baidu.com^
+! 喜番免费短剧，提现页面
+!p1.adkwai.com^
 
 ! ================= 钱咖试玩星 =================
 ! 下载页面
 m.qianka.com^
-
-! ================= 快手\极速版 =================
-! 看直播领金币
-e.kuaishou.com^
-! 看广告得金币，APP页面下载
-adkwai.com^
-! 看广告得金币，百度相关广告
-ada.baidu.com^
-
-! ================= 喜番免费短剧 =================
-! 提现页面
-!p1.adkwai.com^
 
 ! ================= UC浏览器极速版 =================
 ! 签到领奖励

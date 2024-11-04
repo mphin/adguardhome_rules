@@ -1,7 +1,7 @@
 ! Title: AdGuardHome白名单_Earners
-! Version: 202410140450
+! Version: 202411041539
 ! Homepage: https://github.com/mphin/adguardhome_rules
-! Total lines: 156
+! Total lines: 157
 ! Note: 本规则主要用于部分特殊用户，通过特定操作（如观看广告、完成任务等）来赚取奖励的用户。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
 
 ! ================= 短链 =================
@@ -14,9 +14,9 @@ analytics.oceanengine.com^
 ! 看广告下载APP页面
 chengzijianzhan.cc^
 ! 看广告领金币
+ad.zijieapi.com^
 ads3-normal-lf.zijieapi.com^
 ads5-normal-lf.zijieapi.com^
-ad.zijieapi.com^
 ! 头条搜索极速版，登录查看任务余额
 tnc3-bjlgy.zijieapi.com^
 
